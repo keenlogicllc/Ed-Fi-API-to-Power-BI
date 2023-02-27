@@ -1,1 +1,1391 @@
-{"name":"Staging","description":"","version":"1.0","culture":"en-US","modifiedTime":"2023-01-24T15:05:32.1812155+00:00","ppdf:outputFileFormat":"Csv","pbi:mashup":{"fastCombine":false,"allowNativeQueries":false,"queriesMetadata":{"WorkspaceName":{"queryId":"d0ab5891-64d8-47c1-8b66-9c27a765d929","queryName":"WorkspaceName","queryGroupId":"a541fe00-19df-44cf-a9d3-55d425a27ef9"},"DataflowName":{"queryId":"c8b2c330-7129-4394-85d0-3460f5e1714f","queryName":"DataflowName","queryGroupId":"a541fe00-19df-44cf-a9d3-55d425a27ef9"},"SchoolYear":{"queryId":"17ee2388-80fa-45d1-a4e3-e5505f7c9534","queryName":"SchoolYear","queryGroupId":"a541fe00-19df-44cf-a9d3-55d425a27ef9"},"Grades":{"queryId":"ead458c3-276d-49af-bca4-6d5c60754307","queryName":"Grades","queryGroupId":"9c911267-475c-4d2b-8f66-85d240c49fb3"},"Students":{"queryId":"c4ad3c76-f4c9-4931-b77e-c60ae9831311","queryName":"Students","queryGroupId":"9c911267-475c-4d2b-8f66-85d240c49fb3"},"StudentSchoolAssociations":{"queryId":"52b0790b-97a2-493d-8c4b-6bd9e497a32c","queryName":"StudentSchoolAssociations","queryGroupId":"9c911267-475c-4d2b-8f66-85d240c49fb3"},"Programs":{"queryId":"30bbc718-6986-4b30-bd2e-e4b4030f6af7","queryName":"Programs","queryGroupId":"9c911267-475c-4d2b-8f66-85d240c49fb3"},"StudentSectionAssociations":{"queryId":"29b8426d-9884-46d0-88fd-28f3dab6af41","queryName":"StudentSectionAssociations","queryGroupId":"9c911267-475c-4d2b-8f66-85d240c49fb3"},"StudentProgramAssociations":{"queryId":"6848f30f-1122-4d94-865e-7614398afc3b","queryName":"StudentProgramAssociations","queryGroupId":"9c911267-475c-4d2b-8f66-85d240c49fb3"},"CourseTranscripts":{"queryId":"9a1b58eb-324a-49d3-8b7f-d516c40c8f59","queryName":"CourseTranscripts","queryGroupId":"9c911267-475c-4d2b-8f66-85d240c49fb3"},"StudentEducationOrganizationAssociations":{"queryId":"69a68d59-d456-44e8-becc-284ae7d2b480","queryName":"StudentEducationOrganizationAssociations","queryGroupId":"9c911267-475c-4d2b-8f66-85d240c49fb3"},"StudentIdentificationCodes":{"queryId":"06e21b2f-8f8d-475b-b0b5-3d0734afb7ca","queryName":"StudentIdentificationCodes","queryGroupId":"9c911267-475c-4d2b-8f66-85d240c49fb3"},"StudentSchoolAttendanceEvents":{"queryId":"08f3dcaf-5b8e-418a-99d4-ae0a311208d6","queryName":"StudentSchoolAttendanceEvents","queryGroupId":"9c911267-475c-4d2b-8f66-85d240c49fb3"},"StudentSectionAttendanceEvents":{"queryId":"3465fd3a-139e-4546-8ef3-7f1df9c64108","queryName":"StudentSectionAttendanceEvents","queryGroupId":"9c911267-475c-4d2b-8f66-85d240c49fb3"},"StudentAcademicRecords":{"queryId":"e24386da-86fe-41cd-a97e-6b43e62e5c78","queryName":"StudentAcademicRecords","queryGroupId":"9c911267-475c-4d2b-8f66-85d240c49fb3"},"Sessions":{"queryId":"67a4ba12-de14-414d-8c17-9943a392030e","queryName":"Sessions","queryGroupId":"9c911267-475c-4d2b-8f66-85d240c49fb3"},"GradingPeriods":{"queryId":"ec292936-8dff-4f11-b49c-790348b56bb1","queryName":"GradingPeriods","queryGroupId":"9c911267-475c-4d2b-8f66-85d240c49fb3"},"Schools":{"queryId":"f4b0876a-1166-411a-9980-60cc280bcfec","queryName":"Schools","queryGroupId":"9c911267-475c-4d2b-8f66-85d240c49fb3"},"Courses":{"queryId":"efd7ee04-a5d5-44a8-b599-d839ee6f15d3","queryName":"Courses","queryGroupId":"9c911267-475c-4d2b-8f66-85d240c49fb3"},"CalendarDates":{"queryId":"1837dd41-8797-4fae-806a-0553d37ce033","queryName":"CalendarDates","queryGroupId":"9c911267-475c-4d2b-8f66-85d240c49fb3"},"GraduationPlans":{"queryId":"7fd66ce3-e643-4b0e-9dcb-a66586aa866c","queryName":"GraduationPlans","queryGroupId":"9c911267-475c-4d2b-8f66-85d240c49fb3"},"LocalEducationAgencies":{"queryId":"03ce7471-28d1-43be-955b-2120b432448b","queryName":"LocalEducationAgencies","queryGroupId":"9c911267-475c-4d2b-8f66-85d240c49fb3"},"StudentSpecialEducationProgramAssociations":{"queryId":"2f56951c-4544-41a3-821c-d2f1f075e80c","queryName":"StudentSpecialEducationProgramAssociations","queryGroupId":"9c911267-475c-4d2b-8f66-85d240c49fb3"},"stg_edfi_students":{"queryId":"c4f53b65-7f96-45de-baa9-a69e54250c97","queryName":"stg_edfi_students","queryGroupId":"e7ca55ad-66cc-4336-81f2-ea42a242ed31","loadEnabled":true},"stg_edfi_student_education_organization_associations":{"queryId":"69c22148-06d4-4cb3-94df-9a4189db3662","queryName":"stg_edfi_student_education_organization_associations","queryGroupId":"e7ca55ad-66cc-4336-81f2-ea42a242ed31","loadEnabled":true},"stg_edfi_programs":{"queryId":"82fbbaa9-8fa5-4d2c-a6d2-1d7ad647e449","queryName":"stg_edfi_programs","queryGroupId":"e7ca55ad-66cc-4336-81f2-ea42a242ed31","loadEnabled":true},"stg_edfi_student_program_associations":{"queryId":"977100ba-5429-47ba-8551-e42517faa918","queryName":"stg_edfi_student_program_associations","queryGroupId":"e7ca55ad-66cc-4336-81f2-ea42a242ed31","loadEnabled":true},"stg_edfi_student_school_associations":{"queryId":"d7fce0bd-24e4-4741-842f-354f0ebd19f7","queryName":"stg_edfi_student_school_associations","queryGroupId":"e7ca55ad-66cc-4336-81f2-ea42a242ed31","loadEnabled":true},"stg_edfi_schools":{"queryId":"2b6609cd-b534-4780-895b-f80c732cc9a7","queryName":"stg_edfi_schools","queryGroupId":"e7ca55ad-66cc-4336-81f2-ea42a242ed31","loadEnabled":true},"stg_edfi_local_education_agencies":{"queryId":"82342db8-d05f-4914-bda2-5d827327d155","queryName":"stg_edfi_local_education_agencies","queryGroupId":"e7ca55ad-66cc-4336-81f2-ea42a242ed31","loadEnabled":true},"stg_edfi_student_special_education_program_associations":{"queryId":"d798d96f-97d3-4f5e-87d7-e1c6f7739775","queryName":"stg_edfi_student_special_education_program_associations","queryGroupId":"e7ca55ad-66cc-4336-81f2-ea42a242ed31","loadEnabled":true},"stg_edfi_sessions":{"queryId":"aaeb76f0-1ace-4f29-9aca-acf645537dce","queryName":"stg_edfi_sessions","queryGroupId":"e7ca55ad-66cc-4336-81f2-ea42a242ed31","loadEnabled":true},"stg_edfi_grades":{"queryId":"7c97b4ea-1809-46b0-8db3-cfee087638df","queryName":"stg_edfi_grades","queryGroupId":"e7ca55ad-66cc-4336-81f2-ea42a242ed31","loadEnabled":true},"stg_edfi_grading_periods":{"queryId":"b74363a6-4214-457a-8a53-506e7610c653","queryName":"stg_edfi_grading_periods","queryGroupId":"e7ca55ad-66cc-4336-81f2-ea42a242ed31","loadEnabled":true},"stg_edfi_school_year_types":{"queryId":"3fbbf20c-2666-4964-92d7-5ce369bf206b","queryName":"stg_edfi_school_year_types","queryGroupId":"e7ca55ad-66cc-4336-81f2-ea42a242ed31","loadEnabled":true},"stg_edfi_calendar_dates":{"queryId":"89f7504f-62f3-4db6-80b7-9740a5fd4887","queryName":"stg_edfi_calendar_dates","queryGroupId":"e7ca55ad-66cc-4336-81f2-ea42a242ed31","loadEnabled":true},"stg_edfi_student_section_attendance_events":{"queryId":"0dc5ddf3-c39e-44e9-8ed1-f408294687d5","queryName":"stg_edfi_student_section_attendance_events","queryGroupId":"e7ca55ad-66cc-4336-81f2-ea42a242ed31","loadEnabled":true},"stg_edfi_student_school_attendance_events":{"queryId":"bddb5605-8fd2-4cc6-b4bc-6de1128be16d","queryName":"stg_edfi_student_school_attendance_events","queryGroupId":"e7ca55ad-66cc-4336-81f2-ea42a242ed31","loadEnabled":true},"stg_edfi_student_section_associations":{"queryId":"12910b11-d0bd-4787-8cf7-10375bbadeff","queryName":"stg_edfi_student_section_associations","queryGroupId":"e7ca55ad-66cc-4336-81f2-ea42a242ed31","loadEnabled":true},"stg_edfi_graduation_plans":{"queryId":"bc1820e2-c658-4132-97d5-cf7cad34fad6","queryName":"stg_edfi_graduation_plans","queryGroupId":"e7ca55ad-66cc-4336-81f2-ea42a242ed31","loadEnabled":true},"SchoolYearTypes":{"queryId":"fcf74e16-9946-4881-9bef-cd49533a6610","queryName":"SchoolYearTypes","queryGroupId":"9c911267-475c-4d2b-8f66-85d240c49fb3"}},"document":"section Section1;\r\nshared WorkspaceName = \"Ed-Fi Exchange Dev\" meta [IsParameterQuery = true, IsParameterQueryRequired = false, Type = type any];\r\nshared DataflowName = \"Ed-Fi API Base - NEFEC Hosted\" meta [IsParameterQuery = true, IsParameterQueryRequired = false, Type = type any];\r\nshared SchoolYear = 2022 meta [IsParameterQuery = true, IsParameterQueryRequired = true, Type = type any];\r\nshared Grades = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"Grades\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared Students = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"Students\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared StudentSchoolAssociations = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"StudentSchoolAssociations\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared Programs = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"Programs\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared StudentSectionAssociations = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"StudentSectionAssociations\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared StudentProgramAssociations = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"StudentProgramAssociations\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared CourseTranscripts = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"CourseTranscripts\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared StudentEducationOrganizationAssociations = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"StudentEducationOrganizationAssociations\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared StudentIdentificationCodes = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"StudentIdentificationCodes\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then rRecord.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared StudentSchoolAttendanceEvents = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"StudentSchoolAttendanceEvents\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared StudentSectionAttendanceEvents = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"StudentSectionAttendanceEvents\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared StudentAcademicRecords = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"StudentAcademicRecords\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared Sessions = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"Sessions\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared GradingPeriods = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"GradingPeriods\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared Schools = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"Schools\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared Courses = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"Courses\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared CalendarDates = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"CalendarDates\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared GraduationPlans = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"GraduationPlans\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared LocalEducationAgencies = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"LocalEducationAgencies\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared StudentSpecialEducationProgramAssociations = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"StudentSpecialEducationProgramAssociations\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\n[Description = \"This entity represents an individual for whom instruction, services, and/or care are provided in an early childhood, elementary, or secondary educational program under the jurisdiction of a school, education agency or other institution or program. A student is a person who has been enrolled in a school or other educational institution.\"]\r\nshared stg_edfi_students = let\n  Source = try Students catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then r else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\",\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\n  #\"Added custom\" = Table.TransformColumnTypes(Table.AddColumn(#\"Renamed columns\", \"school_year\", each SchoolYear), {{\"school_year\", Int64.Type}})\nin\n  #\"Added custom\";\r\nshared stg_edfi_student_education_organization_associations = let\n  Source = StudentEducationOrganizationAssociations,\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\n  #\"Added custom\" = Table.TransformColumnTypes(Table.AddColumn(#\"Renamed columns\", \"school_year.2\", each SchoolYear), {{\"school_year.2\", Int64.Type}})\nin\n  #\"Added custom\";\r\nshared stg_edfi_programs = let\n  Source = Programs,\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\n  #\"Renamed columns 1\" = Table.RenameColumns(#\"Renamed columns\", {{\"school__year\", \"school_year\"}}),\n  #\"Changed column type\" = Table.TransformColumnTypes(#\"Renamed columns 1\", {{\"education_organization_id\", type text}})\nin\n  #\"Changed column type\";\r\nshared stg_edfi_student_program_associations = let\r\n  Source = StudentProgramAssociations,\r\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\r\n  #\"Added custom\" = Table.TransformColumnTypes(Table.AddColumn(#\"Renamed columns\", \"school_year\", each SchoolYear), {{\"school_year\", Int64.Type}}),\r\n  #\"Changed column type\" = Table.TransformColumnTypes(#\"Added custom\", {{\"education_organization_id\", type text}})\r\nin\r\n  #\"Changed column type\";\r\nshared stg_edfi_student_school_associations = let\r\n  Source = StudentSchoolAssociations,\r\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\r\n  #\"Changed column type\" = Table.TransformColumnTypes(#\"Renamed columns\", {{\"education_organization_id\", type text}, {\"school_id\", type text}})\r\nin\r\n  #\"Changed column type\";\r\nshared stg_edfi_schools = let\r\n  Source = Schools,\r\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\r\n  #\"Added custom\" = Table.TransformColumnTypes(Table.AddColumn(#\"Renamed columns\", \"school_year\", each SchoolYear), {{\"school_year\", Int64.Type}}),\r\n  #\"Changed column type\" = Table.TransformColumnTypes(#\"Added custom\", {{\"local_education_agency_id\", type text}, {\"school_id\", type text}})\r\nin\r\n  #\"Changed column type\";\r\nshared stg_edfi_local_education_agencies = let\r\n  Source = LocalEducationAgencies,\r\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\r\n  #\"Added custom\" = Table.TransformColumnTypes(Table.AddColumn(#\"Renamed columns\", \"school_year\", each SchoolYear), {{\"school_year\", Int64.Type}}),\r\n  #\"Changed column type\" = Table.TransformColumnTypes(#\"Added custom\", {{\"local_education_agency_id\", type text}})\r\nin\r\n  #\"Changed column type\";\r\nshared stg_edfi_student_special_education_program_associations = let\r\n  Source = StudentSpecialEducationProgramAssociations,\r\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\r\n  #\"Changed column type\" = Table.TransformColumnTypes(#\"Renamed columns\", {{\"education_organization_id\", type text}}),\r\n  #\"Renamed columns 1\" = Table.RenameColumns(#\"Changed column type\", {{\"school__year\", \"school_year\"}})\r\nin\r\n  #\"Renamed columns 1\";\r\nshared stg_edfi_sessions = let\n  Source = Sessions,\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\r\n  #\"Changed column type\" = Table.TransformColumnTypes(#\"Renamed columns\", {{\"school_id\", type text}})\nin\n  #\"Changed column type\";\r\nshared stg_edfi_grades = let\r\n  Source = Grades,\r\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\r\n  #\"Changed column type\" = Table.TransformColumnTypes(#\"Renamed columns\", {{\"school_id\", type text}}),\r\n  #\"Added custom\" = Table.TransformColumnTypes(Table.AddColumn(#\"Renamed columns\", \"school_year.2\", each SchoolYear), {{\"school_year.2\", Int64.Type}})\r\nin\r\n  #\"Added custom\";\r\nshared stg_edfi_grading_periods = let\n  Source = GradingPeriods,\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\n  #\"Added custom\" = Table.TransformColumnTypes(Table.AddColumn(#\"Renamed columns\", \"school_year.2\", each SchoolYear), {{\"school_year.2\", Int64.Type}}),\n  #\"Changed column type\" = Table.TransformColumnTypes(#\"Added custom\", {{\"school_id\", type text}})\nin\n  #\"Changed column type\";\r\nshared stg_edfi_school_year_types = let\n  Source = SchoolYearTypes,\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\")))))\nin\n  #\"Renamed columns\";\r\nshared stg_edfi_calendar_dates = let\n  Source = CalendarDates,\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\r\n  #\"Renamed columns 1\" = Table.RenameColumns(#\"Renamed columns\", {{\"calendar_event_descriptor\", \"calendar_events\"}}),\n  #\"Added custom\" = Table.TransformColumnTypes(Table.AddColumn(#\"Renamed columns 1\", \"school_year.2\", each SchoolYear), {{\"school_year.2\", Int64.Type}}),\r\n  #\"Changed column type\" = Table.TransformColumnTypes(#\"Added custom\", {{\"school_id\", type text}})\nin\n  #\"Changed column type\";\r\nshared stg_edfi_student_section_attendance_events = let\n  Source = StudentSectionAttendanceEvents,\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\n  #\"Added custom\" = Table.TransformColumnTypes(Table.AddColumn(#\"Renamed columns\", \"school_year.2\", each SchoolYear), {{\"school_year.2\", Int64.Type}}),\r\n  #\"Changed column type\" = Table.TransformColumnTypes(#\"Added custom\", {{\"school_id\", type text}})\nin\n  #\"Changed column type\";\r\nshared stg_edfi_student_school_attendance_events = let\n  Source = StudentSchoolAttendanceEvents,\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\n  #\"Added custom\" = Table.TransformColumnTypes(Table.AddColumn(#\"Renamed columns\", \"school_year.2\", each SchoolYear), {{\"school_year.2\", Int64.Type}}),\r\n  #\"Changed column type\" = Table.TransformColumnTypes(#\"Added custom\", {{\"school_id\", type text}})\nin\n  #\"Changed column type\";\r\nshared stg_edfi_student_section_associations = let\n  Source = StudentSectionAssociations,\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\n  #\"Added custom\" = Table.TransformColumnTypes(Table.AddColumn(#\"Renamed columns\", \"school_year.2\", each SchoolYear), {{\"school_year.2\", Int64.Type}}),\r\n  #\"Changed column type\" = Table.TransformColumnTypes(#\"Added custom\", {{\"school_year\", Int64.Type}})\nin\n  #\"Changed column type\";\r\nshared stg_edfi_graduation_plans = let\r\n  Source = try GraduationPlans catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then r else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\",\r\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\r\n  #\"Transform columns\" = Table.TransformColumnTypes(#\"Renamed columns\", {{\"_value\", type text}}),\r\n  #\"Replace errors\" = Table.ReplaceErrorValues(#\"Transform columns\", {{\"_value\", null}})\r\nin\r\n  #\"Replace errors\";\r\nshared SchoolYearTypes = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"SchoolYearTypes\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\n","connectionOverrides":[{"path":"PowerBI","kind":"PowerBI","provider":"CdsA","authenticationKind":null,"environmentName":null,"apiName":null,"connectionName":"{\"kind\":\"PowerBI\",\"path\":\"PowerBI\"}","audience":null}]},"annotations":[{"name":"pbi:QueryGroups","value":"[{\"id\":\"16154c72-e425-4bfa-a735-07433d06dce8\",\"name\":\"staging\",\"description\":\"\",\"parentId\":null,\"order\":2},{\"id\":\"a541fe00-19df-44cf-a9d3-55d425a27ef9\",\"name\":\"Parameters\",\"description\":\"\",\"parentId\":null,\"order\":0},{\"id\":\"e7ca55ad-66cc-4336-81f2-ea42a242ed31\",\"name\":\"Ed-Fi\",\"description\":\"\",\"parentId\":\"16154c72-e425-4bfa-a735-07433d06dce8\",\"order\":0},{\"id\":\"9c911267-475c-4d2b-8f66-85d240c49fb3\",\"name\":\"Linked Dataflows\",\"description\":\"\",\"parentId\":null,\"order\":1}]"}],"entities":[{"$type":"LocalEntity","name":"stg_edfi_students","description":"","pbi:refreshPolicy":{"$type":"FullRefreshPolicy","location":"stg_edfi_students.csv"},"attributes":[{"name":"id","dataType":"string"},{"name":"student_unique_id","dataType":"string"},{"name":"birth_country_descriptor","dataType":"string"},{"name":"birth_date","dataType":"date"},{"name":"first_name","dataType":"string"},{"name":"last_surname","dataType":"string"},{"name":"middle_name","dataType":"string"},{"name":"identification_documents","dataType":"string"},{"name":"personal_identification_documents","dataType":"string"},{"name":"visa_descriptor","dataType":"string"},{"name":"school_year","dataType":"int64"}],"partitions":[{"name":"FullRefreshPolicyPartition","refreshTime":"2023-02-10T14:55:57.0478451+00:00","location":"https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_students.csv?snapshot=2023-02-10T14%3A55%3A57.0186176Z"}]},{"$type":"LocalEntity","name":"stg_edfi_student_education_organization_associations","description":"","pbi:refreshPolicy":{"$type":"FullRefreshPolicy","location":"stg_edfi_student_education_organization_associations.csv"},"attributes":[{"name":"id","dataType":"string"},{"name":"education_organization_id","dataType":"int64"},{"name":"student_unique_id","dataType":"string"},{"name":"hispanic_latino_ethnicity","dataType":"boolean"},{"name":"limited_english_proficiency_descriptor","dataType":"string"},{"name":"sex_descriptor","dataType":"string"},{"name":"address_type_descriptor","dataType":"string"},{"name":"city","dataType":"string"},{"name":"postal_code","dataType":"string"},{"name":"state_abbreviation_descriptor","dataType":"string"},{"name":"street_number_name","dataType":"string"},{"name":"periods","dataType":"string"},{"name":"ancestry_ethnic_origins","dataType":"string"},{"name":"school_year","dataType":"int64"},{"name":"cohort_year_type_descriptor","dataType":"string"},{"name":"disabilities","dataType":"string"},{"name":"electronic_mail_address","dataType":"string"},{"name":"electronic_mail_type_descriptor","dataType":"string"},{"name":"primary_email_address_indicator","dataType":"boolean"},{"name":"international_addresses","dataType":"string"},{"name":"language_descriptor","dataType":"string"},{"name":"language_use_descriptor","dataType":"string"},{"name":"program_participations","dataType":"string"},{"name":"race_descriptor","dataType":"string"},{"name":"student_characteristics","dataType":"string"},{"name":"student_indicators","dataType":"string"},{"name":"telephone_number","dataType":"string"},{"name":"telephone_number_type_descriptor","dataType":"string"},{"name":"tribal_affiliations","dataType":"string"},{"name":"school_year.2","dataType":"int64"}],"partitions":[{"name":"FullRefreshPolicyPartition","refreshTime":"2023-02-10T14:55:57.5322052+00:00","location":"https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_student_education_organization_associations.csv?snapshot=2023-02-10T14%3A55%3A57.5223895Z"}]},{"$type":"LocalEntity","name":"stg_edfi_programs","description":"","pbi:refreshPolicy":{"$type":"FullRefreshPolicy","location":"stg_edfi_programs.csv"},"attributes":[{"name":"id","dataType":"string"},{"name":"education_organization_id","dataType":"string"},{"name":"program_name","dataType":"string"},{"name":"program_type_descriptor","dataType":"string"},{"name":"program_id","dataType":"string"},{"name":"characteristics","dataType":"string"},{"name":"learning_objectives","dataType":"string"},{"name":"learning_standards","dataType":"string"},{"name":"services","dataType":"string"},{"name":"sponsors","dataType":"string"},{"name":"school_year","dataType":"int64"}],"partitions":[{"name":"FullRefreshPolicyPartition","refreshTime":"2023-02-10T14:55:57.0009729+00:00","location":"https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_programs.csv?snapshot=2023-02-10T14%3A55%3A56.9756368Z"}]},{"$type":"LocalEntity","name":"stg_edfi_student_program_associations","description":"","pbi:refreshPolicy":{"$type":"FullRefreshPolicy","location":"stg_edfi_student_program_associations.csv"},"attributes":[{"name":"id","dataType":"string"},{"name":"education_organization_id","dataType":"string"},{"name":"program_name","dataType":"string"},{"name":"program_type_descriptor","dataType":"string"},{"name":"student_unique_id","dataType":"string"},{"name":"begin_date","dataType":"date"},{"name":"program_participation_statuses","dataType":"string"},{"name":"services","dataType":"string"},{"name":"school_year","dataType":"int64"}],"partitions":[{"name":"FullRefreshPolicyPartition","refreshTime":"2023-02-10T14:55:59.5165974+00:00","location":"https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_student_program_associations.csv?snapshot=2023-02-10T14%3A55%3A59.5004941Z"}]},{"$type":"LocalEntity","name":"stg_edfi_student_school_associations","description":"","pbi:refreshPolicy":{"$type":"FullRefreshPolicy","location":"stg_edfi_student_school_associations.csv"},"attributes":[{"name":"id","dataType":"string"},{"name":"education_organization_id","dataType":"string"},{"name":"graduation_plan_type_descriptor","dataType":"string"},{"name":"graduation_school_year","dataType":"string"},{"name":"school_id","dataType":"string"},{"name":"school_year","dataType":"int64"},{"name":"student_unique_id","dataType":"string"},{"name":"entry_date","dataType":"date"},{"name":"entry_grade_level_descriptor","dataType":"string"},{"name":"entry_type_descriptor","dataType":"string"},{"name":"exit_withdrawl_date","dataType":"date"},{"name":"exit_withdraw_type_descriptor","dataType":"string"},{"name":"primary_school","dataType":"boolean"},{"name":"repeat_grade_indicator","dataType":"boolean"},{"name":"residency_status_descriptor","dataType":"string"},{"name":"school_choice_transfer","dataType":"string"},{"name":"alternative_graduation_plans","dataType":"string"},{"name":"education_plans","dataType":"string"}],"partitions":[{"name":"FullRefreshPolicyPartition","refreshTime":"2023-02-10T14:55:57.2353404+00:00","location":"https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_student_school_associations.csv?snapshot=2023-02-10T14%3A55%3A57.2135295Z"}]},{"$type":"LocalEntity","name":"stg_edfi_schools","description":"","pbi:refreshPolicy":{"$type":"FullRefreshPolicy","location":"stg_edfi_schools.csv"},"attributes":[{"name":"id","dataType":"string"},{"name":"local_education_agency_id","dataType":"string"},{"name":"school_id","dataType":"string"},{"name":"name_of_institution","dataType":"string"},{"name":"web_site","dataType":"string"},{"name":"charter_status_descriptor","dataType":"string"},{"name":"school_type_descriptor","dataType":"string"},{"name":"address_type_descriptor","dataType":"string"},{"name":"city","dataType":"string"},{"name":"postal_code","dataType":"string"},{"name":"state_abbreviation_descriptor","dataType":"string"},{"name":"street_number_name","dataType":"string"},{"name":"periods","dataType":"string"},{"name":"education_organization_category_descriptor","dataType":"string"},{"name":"identification_codes","dataType":"string"},{"name":"indicators","dataType":"string"},{"name":"institution_telephone_number_type_descriptor","dataType":"string"},{"name":"telephone_number","dataType":"string"},{"name":"international_addresses","dataType":"string"},{"name":"tpdm","dataType":"string"},{"name":"school_category_descriptor","dataType":"string"},{"name":"grade_level_descriptor","dataType":"string"},{"name":"short_name_of_institution","dataType":"string"},{"name":"school_year","dataType":"int64"}],"partitions":[{"name":"FullRefreshPolicyPartition","refreshTime":"2023-02-10T14:55:56.8290914+00:00","location":"https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_schools.csv?snapshot=2023-02-10T14%3A55%3A56.7727286Z"}]},{"$type":"LocalEntity","name":"stg_edfi_local_education_agencies","description":"","pbi:refreshPolicy":{"$type":"FullRefreshPolicy","location":"stg_edfi_local_education_agencies.csv"},"attributes":[{"name":"id","dataType":"string"},{"name":"local_education_agency_id","dataType":"string"},{"name":"name_of_institution","dataType":"string"},{"name":"local_education_agency_category_descriptor","dataType":"string"},{"name":"addresses","dataType":"string"},{"name":"education_organization_category_descriptor","dataType":"string"},{"name":"identification_codes","dataType":"string"},{"name":"indicators","dataType":"string"},{"name":"institution_telephones","dataType":"string"},{"name":"international_addresses","dataType":"string"},{"name":"tpdm","dataType":"string"},{"name":"accountabilities","dataType":"string"},{"name":"federal_funds","dataType":"string"},{"name":"school_year","dataType":"int64"}],"partitions":[{"name":"FullRefreshPolicyPartition","refreshTime":"2023-02-10T14:55:56.8134887+00:00","location":"https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_local_education_agencies.csv?snapshot=2023-02-10T14%3A55%3A56.7977189Z"}]},{"$type":"LocalEntity","name":"stg_edfi_student_special_education_program_associations","description":"","pbi:refreshPolicy":{"$type":"FullRefreshPolicy","location":"stg_edfi_student_special_education_program_associations.csv"},"attributes":[{"name":"id","dataType":"string"},{"name":"education_organization_id","dataType":"string"},{"name":"program_name","dataType":"string"},{"name":"program_type_descriptor","dataType":"string"},{"name":"student_unique_id","dataType":"string"},{"name":"begin_date","dataType":"date"},{"name":"idea_eligibility","dataType":"boolean"},{"name":"special_education_setting_descriptor","dataType":"string"},{"name":"program_participation_statuses","dataType":"string"},{"name":"disabilities","dataType":"string"},{"name":"service_providers","dataType":"string"},{"name":"special_education_program_services","dataType":"string"},{"name":"school_year","dataType":"int64"}],"partitions":[{"name":"FullRefreshPolicyPartition","refreshTime":"2023-02-10T14:55:57.6885002+00:00","location":"https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_student_special_education_program_associations.csv?snapshot=2023-02-10T14%3A55%3A57.6723216Z"}]},{"$type":"LocalEntity","name":"stg_edfi_sessions","description":"","pbi:refreshPolicy":{"$type":"FullRefreshPolicy","location":"stg_edfi_sessions.csv"},"attributes":[{"name":"id","dataType":"string"},{"name":"school_id","dataType":"string"},{"name":"school_year","dataType":"int64"},{"name":"session_name","dataType":"string"},{"name":"begin_date","dataType":"date"},{"name":"end_date","dataType":"date"},{"name":"term_descriptor","dataType":"string"},{"name":"total_instructional_days","dataType":"int64"},{"name":"academic_weeks","dataType":"string"},{"name":"grading_period_descriptor","dataType":"string"},{"name":"period_sequence","dataType":"int64"}],"partitions":[{"name":"FullRefreshPolicyPartition","refreshTime":"2023-02-10T14:55:57.4228524+00:00","location":"https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_sessions.csv?snapshot=2023-02-10T14%3A55%3A57.4034424Z"}]},{"$type":"LocalEntity","name":"stg_edfi_grades","description":"","pbi:refreshPolicy":{"$type":"FullRefreshPolicy","location":"stg_edfi_grades.csv"},"attributes":[{"name":"id","dataType":"string"},{"name":"grading_period_descriptor","dataType":"string"},{"name":"period_sequence","dataType":"int64"},{"name":"school_id","dataType":"int64"},{"name":"school_year","dataType":"int64"},{"name":"begin_date","dataType":"dateTime"},{"name":"local_course_code","dataType":"string"},{"name":"section_identifier","dataType":"string"},{"name":"session_name","dataType":"string"},{"name":"student_unique_id","dataType":"string"},{"name":"grade_type_descriptor","dataType":"string"},{"name":"letter_grade_earned","dataType":"string"},{"name":"numeric_grade_earned","dataType":"int64"},{"name":"school_year.2","dataType":"int64"}],"partitions":[{"name":"FullRefreshPolicyPartition","refreshTime":"2023-02-10T14:56:00.3291156+00:00","location":"https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_grades.csv?snapshot=2023-02-10T14%3A56%3A00.3081283Z"}]},{"$type":"LocalEntity","name":"stg_edfi_grading_periods","description":"","pbi:refreshPolicy":{"$type":"FullRefreshPolicy","location":"stg_edfi_grading_periods.csv"},"attributes":[{"name":"id","dataType":"string"},{"name":"school_id","dataType":"string"},{"name":"school_year","dataType":"int64"},{"name":"grading_period_descriptor","dataType":"string"},{"name":"period_sequence","dataType":"int64"},{"name":"begin_date","dataType":"date"},{"name":"end_date","dataType":"date"},{"name":"total_instructional_days","dataType":"int64"},{"name":"school_year.2","dataType":"int64"}],"partitions":[{"name":"FullRefreshPolicyPartition","refreshTime":"2023-02-10T14:55:56.516664+00:00","location":"https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_grading_periods.csv?snapshot=2023-02-10T14%3A55%3A56.4698654Z"}]},{"$type":"LocalEntity","name":"stg_edfi_school_year_types","description":"","pbi:refreshPolicy":{"$type":"FullRefreshPolicy","location":"stg_edfi_school_year_types.csv"},"attributes":[{"name":"id","dataType":"string"},{"name":"school_year","dataType":"int64"},{"name":"current_school_year","dataType":"boolean"},{"name":"school_year_description","dataType":"string"}],"partitions":[{"name":"FullRefreshPolicyPartition","refreshTime":"2023-02-10T14:55:56.6103506+00:00","location":"https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_school_year_types.csv?snapshot=2023-02-10T14%3A55%3A56.5808159Z"}]},{"$type":"LocalEntity","name":"stg_edfi_calendar_dates","description":"","pbi:refreshPolicy":{"$type":"FullRefreshPolicy","location":"stg_edfi_calendar_dates.csv"},"attributes":[{"name":"id","dataType":"string"},{"name":"calendar_code","dataType":"string"},{"name":"school_id","dataType":"string"},{"name":"school_year","dataType":"int64"},{"name":"rel","dataType":"string"},{"name":"date","dataType":"date"},{"name":"calendar_events","dataType":"string"},{"name":"school_year.2","dataType":"int64"}],"partitions":[{"name":"FullRefreshPolicyPartition","refreshTime":"2023-02-10T14:55:56.9384686+00:00","location":"https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_calendar_dates.csv?snapshot=2023-02-10T14%3A55%3A56.9266595Z"}]},{"$type":"LocalEntity","name":"stg_edfi_student_section_attendance_events","description":"","pbi:refreshPolicy":{"$type":"FullRefreshPolicy","location":"stg_edfi_student_section_attendance_events.csv"},"attributes":[{"name":"id","dataType":"string"},{"name":"local_course_code","dataType":"string"},{"name":"school_id","dataType":"string"},{"name":"school_year","dataType":"int64"},{"name":"section_identifier","dataType":"string"},{"name":"session_name","dataType":"string"},{"name":"student_unique_id","dataType":"string"},{"name":"attendance_event_category_descriptor","dataType":"string"},{"name":"event_date","dataType":"date"},{"name":"school_year.2","dataType":"int64"}],"partitions":[{"name":"FullRefreshPolicyPartition","refreshTime":"2023-02-10T14:56:04.1572098+00:00","location":"https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_student_section_attendance_events.csv?snapshot=2023-02-10T14%3A56%3A04.1393942Z"}]},{"$type":"LocalEntity","name":"stg_edfi_student_school_attendance_events","description":"","pbi:refreshPolicy":{"$type":"FullRefreshPolicy","location":"stg_edfi_student_school_attendance_events.csv"},"attributes":[{"name":"id","dataType":"string"},{"name":"school_id","dataType":"string"},{"name":"school_year","dataType":"int64"},{"name":"session_name","dataType":"string"},{"name":"student_unique_id","dataType":"string"},{"name":"attendance_event_category_descriptor","dataType":"string"},{"name":"event_date","dataType":"date"},{"name":"attendance_event_reason","dataType":"string"},{"name":"school_year.2","dataType":"int64"}],"partitions":[{"name":"FullRefreshPolicyPartition","refreshTime":"2023-02-10T14:55:58.6572387+00:00","location":"https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_student_school_attendance_events.csv?snapshot=2023-02-10T14%3A55%3A58.6378851Z"}]},{"$type":"LocalEntity","name":"stg_edfi_student_section_associations","description":"","pbi:refreshPolicy":{"$type":"FullRefreshPolicy","location":"stg_edfi_student_section_associations.csv"},"attributes":[{"name":"id","dataType":"string"},{"name":"local_course_code","dataType":"string"},{"name":"school_id","dataType":"string"},{"name":"school_year","dataType":"int64"},{"name":"section_identifier","dataType":"string"},{"name":"session_name","dataType":"string"},{"name":"student_unique_id","dataType":"string"},{"name":"begin_date","dataType":"string"},{"name":"end_date","dataType":"string"},{"name":"school_year.2","dataType":"int64"}],"partitions":[{"name":"FullRefreshPolicyPartition","refreshTime":"2023-02-10T14:55:58.8447091+00:00","location":"https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_student_section_associations.csv?snapshot=2023-02-10T14%3A55%3A58.8277985Z"}]},{"$type":"LocalEntity","name":"stg_edfi_graduation_plans","description":"","pbi:refreshPolicy":{"$type":"FullRefreshPolicy","location":"stg_edfi_graduation_plans.csv"},"attributes":[{"name":"_name","dataType":"string"},{"name":"_value","dataType":"string"}],"partitions":[{"name":"FullRefreshPolicyPartition","refreshTime":"2023-02-10T14:55:56.704101+00:00","location":"https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_graduation_plans.csv?snapshot=2023-02-10T14%3A55%3A56.6607800Z"}]}]}
+{
+    "name": "Staging",
+    "description": "",
+    "version": "1.0",
+    "culture": "en-US",
+    "modifiedTime": "2023-01-24T15:05:32.1812155+00:00",
+    "ppdf:outputFileFormat": "Csv",
+    "pbi:mashup": {
+        "fastCombine": false,
+        "allowNativeQueries": false,
+        "queriesMetadata": {
+            "WorkspaceName": {
+                "queryId": "d0ab5891-64d8-47c1-8b66-9c27a765d929",
+                "queryName": "WorkspaceName",
+                "queryGroupId": "a541fe00-19df-44cf-a9d3-55d425a27ef9"
+            },
+            "DataflowName": {
+                "queryId": "c8b2c330-7129-4394-85d0-3460f5e1714f",
+                "queryName": "DataflowName",
+                "queryGroupId": "a541fe00-19df-44cf-a9d3-55d425a27ef9"
+            },
+            "SchoolYear": {
+                "queryId": "17ee2388-80fa-45d1-a4e3-e5505f7c9534",
+                "queryName": "SchoolYear",
+                "queryGroupId": "a541fe00-19df-44cf-a9d3-55d425a27ef9"
+            },
+            "Grades": {
+                "queryId": "ead458c3-276d-49af-bca4-6d5c60754307",
+                "queryName": "Grades",
+                "queryGroupId": "9c911267-475c-4d2b-8f66-85d240c49fb3"
+            },
+            "Students": {
+                "queryId": "c4ad3c76-f4c9-4931-b77e-c60ae9831311",
+                "queryName": "Students",
+                "queryGroupId": "9c911267-475c-4d2b-8f66-85d240c49fb3"
+            },
+            "StudentSchoolAssociations": {
+                "queryId": "52b0790b-97a2-493d-8c4b-6bd9e497a32c",
+                "queryName": "StudentSchoolAssociations",
+                "queryGroupId": "9c911267-475c-4d2b-8f66-85d240c49fb3"
+            },
+            "Programs": {
+                "queryId": "30bbc718-6986-4b30-bd2e-e4b4030f6af7",
+                "queryName": "Programs",
+                "queryGroupId": "9c911267-475c-4d2b-8f66-85d240c49fb3"
+            },
+            "StudentSectionAssociations": {
+                "queryId": "29b8426d-9884-46d0-88fd-28f3dab6af41",
+                "queryName": "StudentSectionAssociations",
+                "queryGroupId": "9c911267-475c-4d2b-8f66-85d240c49fb3"
+            },
+            "StudentProgramAssociations": {
+                "queryId": "6848f30f-1122-4d94-865e-7614398afc3b",
+                "queryName": "StudentProgramAssociations",
+                "queryGroupId": "9c911267-475c-4d2b-8f66-85d240c49fb3"
+            },
+            "CourseTranscripts": {
+                "queryId": "9a1b58eb-324a-49d3-8b7f-d516c40c8f59",
+                "queryName": "CourseTranscripts",
+                "queryGroupId": "9c911267-475c-4d2b-8f66-85d240c49fb3"
+            },
+            "StudentEducationOrganizationAssociations": {
+                "queryId": "69a68d59-d456-44e8-becc-284ae7d2b480",
+                "queryName": "StudentEducationOrganizationAssociations",
+                "queryGroupId": "9c911267-475c-4d2b-8f66-85d240c49fb3"
+            },
+            "StudentIdentificationCodes": {
+                "queryId": "06e21b2f-8f8d-475b-b0b5-3d0734afb7ca",
+                "queryName": "StudentIdentificationCodes",
+                "queryGroupId": "9c911267-475c-4d2b-8f66-85d240c49fb3"
+            },
+            "StudentSchoolAttendanceEvents": {
+                "queryId": "08f3dcaf-5b8e-418a-99d4-ae0a311208d6",
+                "queryName": "StudentSchoolAttendanceEvents",
+                "queryGroupId": "9c911267-475c-4d2b-8f66-85d240c49fb3"
+            },
+            "StudentSectionAttendanceEvents": {
+                "queryId": "3465fd3a-139e-4546-8ef3-7f1df9c64108",
+                "queryName": "StudentSectionAttendanceEvents",
+                "queryGroupId": "9c911267-475c-4d2b-8f66-85d240c49fb3"
+            },
+            "StudentAcademicRecords": {
+                "queryId": "e24386da-86fe-41cd-a97e-6b43e62e5c78",
+                "queryName": "StudentAcademicRecords",
+                "queryGroupId": "9c911267-475c-4d2b-8f66-85d240c49fb3"
+            },
+            "Sessions": {
+                "queryId": "67a4ba12-de14-414d-8c17-9943a392030e",
+                "queryName": "Sessions",
+                "queryGroupId": "9c911267-475c-4d2b-8f66-85d240c49fb3"
+            },
+            "GradingPeriods": {
+                "queryId": "ec292936-8dff-4f11-b49c-790348b56bb1",
+                "queryName": "GradingPeriods",
+                "queryGroupId": "9c911267-475c-4d2b-8f66-85d240c49fb3"
+            },
+            "Schools": {
+                "queryId": "f4b0876a-1166-411a-9980-60cc280bcfec",
+                "queryName": "Schools",
+                "queryGroupId": "9c911267-475c-4d2b-8f66-85d240c49fb3"
+            },
+            "Courses": {
+                "queryId": "efd7ee04-a5d5-44a8-b599-d839ee6f15d3",
+                "queryName": "Courses",
+                "queryGroupId": "9c911267-475c-4d2b-8f66-85d240c49fb3"
+            },
+            "CalendarDates": {
+                "queryId": "1837dd41-8797-4fae-806a-0553d37ce033",
+                "queryName": "CalendarDates",
+                "queryGroupId": "9c911267-475c-4d2b-8f66-85d240c49fb3"
+            },
+            "GraduationPlans": {
+                "queryId": "7fd66ce3-e643-4b0e-9dcb-a66586aa866c",
+                "queryName": "GraduationPlans",
+                "queryGroupId": "9c911267-475c-4d2b-8f66-85d240c49fb3"
+            },
+            "LocalEducationAgencies": {
+                "queryId": "03ce7471-28d1-43be-955b-2120b432448b",
+                "queryName": "LocalEducationAgencies",
+                "queryGroupId": "9c911267-475c-4d2b-8f66-85d240c49fb3"
+            },
+            "StudentSpecialEducationProgramAssociations": {
+                "queryId": "2f56951c-4544-41a3-821c-d2f1f075e80c",
+                "queryName": "StudentSpecialEducationProgramAssociations",
+                "queryGroupId": "9c911267-475c-4d2b-8f66-85d240c49fb3"
+            },
+            "stg_edfi_students": {
+                "queryId": "c4f53b65-7f96-45de-baa9-a69e54250c97",
+                "queryName": "stg_edfi_students",
+                "queryGroupId": "e7ca55ad-66cc-4336-81f2-ea42a242ed31",
+                "loadEnabled": true
+            },
+            "stg_edfi_student_education_organization_associations": {
+                "queryId": "69c22148-06d4-4cb3-94df-9a4189db3662",
+                "queryName": "stg_edfi_student_education_organization_associations",
+                "queryGroupId": "e7ca55ad-66cc-4336-81f2-ea42a242ed31",
+                "loadEnabled": true
+            },
+            "stg_edfi_programs": {
+                "queryId": "82fbbaa9-8fa5-4d2c-a6d2-1d7ad647e449",
+                "queryName": "stg_edfi_programs",
+                "queryGroupId": "e7ca55ad-66cc-4336-81f2-ea42a242ed31",
+                "loadEnabled": true
+            },
+            "stg_edfi_student_program_associations": {
+                "queryId": "977100ba-5429-47ba-8551-e42517faa918",
+                "queryName": "stg_edfi_student_program_associations",
+                "queryGroupId": "e7ca55ad-66cc-4336-81f2-ea42a242ed31",
+                "loadEnabled": true
+            },
+            "stg_edfi_student_school_associations": {
+                "queryId": "d7fce0bd-24e4-4741-842f-354f0ebd19f7",
+                "queryName": "stg_edfi_student_school_associations",
+                "queryGroupId": "e7ca55ad-66cc-4336-81f2-ea42a242ed31",
+                "loadEnabled": true
+            },
+            "stg_edfi_schools": {
+                "queryId": "2b6609cd-b534-4780-895b-f80c732cc9a7",
+                "queryName": "stg_edfi_schools",
+                "queryGroupId": "e7ca55ad-66cc-4336-81f2-ea42a242ed31",
+                "loadEnabled": true
+            },
+            "stg_edfi_local_education_agencies": {
+                "queryId": "82342db8-d05f-4914-bda2-5d827327d155",
+                "queryName": "stg_edfi_local_education_agencies",
+                "queryGroupId": "e7ca55ad-66cc-4336-81f2-ea42a242ed31",
+                "loadEnabled": true
+            },
+            "stg_edfi_student_special_education_program_associations": {
+                "queryId": "d798d96f-97d3-4f5e-87d7-e1c6f7739775",
+                "queryName": "stg_edfi_student_special_education_program_associations",
+                "queryGroupId": "e7ca55ad-66cc-4336-81f2-ea42a242ed31",
+                "loadEnabled": true
+            },
+            "stg_edfi_sessions": {
+                "queryId": "aaeb76f0-1ace-4f29-9aca-acf645537dce",
+                "queryName": "stg_edfi_sessions",
+                "queryGroupId": "e7ca55ad-66cc-4336-81f2-ea42a242ed31",
+                "loadEnabled": true
+            },
+            "stg_edfi_grades": {
+                "queryId": "7c97b4ea-1809-46b0-8db3-cfee087638df",
+                "queryName": "stg_edfi_grades",
+                "queryGroupId": "e7ca55ad-66cc-4336-81f2-ea42a242ed31",
+                "loadEnabled": true
+            },
+            "stg_edfi_grading_periods": {
+                "queryId": "b74363a6-4214-457a-8a53-506e7610c653",
+                "queryName": "stg_edfi_grading_periods",
+                "queryGroupId": "e7ca55ad-66cc-4336-81f2-ea42a242ed31",
+                "loadEnabled": true
+            },
+            "stg_edfi_school_year_types": {
+                "queryId": "3fbbf20c-2666-4964-92d7-5ce369bf206b",
+                "queryName": "stg_edfi_school_year_types",
+                "queryGroupId": "e7ca55ad-66cc-4336-81f2-ea42a242ed31",
+                "loadEnabled": true
+            },
+            "stg_edfi_calendar_dates": {
+                "queryId": "89f7504f-62f3-4db6-80b7-9740a5fd4887",
+                "queryName": "stg_edfi_calendar_dates",
+                "queryGroupId": "e7ca55ad-66cc-4336-81f2-ea42a242ed31",
+                "loadEnabled": true
+            },
+            "stg_edfi_student_section_attendance_events": {
+                "queryId": "0dc5ddf3-c39e-44e9-8ed1-f408294687d5",
+                "queryName": "stg_edfi_student_section_attendance_events",
+                "queryGroupId": "e7ca55ad-66cc-4336-81f2-ea42a242ed31",
+                "loadEnabled": true
+            },
+            "stg_edfi_student_school_attendance_events": {
+                "queryId": "bddb5605-8fd2-4cc6-b4bc-6de1128be16d",
+                "queryName": "stg_edfi_student_school_attendance_events",
+                "queryGroupId": "e7ca55ad-66cc-4336-81f2-ea42a242ed31",
+                "loadEnabled": true
+            },
+            "stg_edfi_student_section_associations": {
+                "queryId": "12910b11-d0bd-4787-8cf7-10375bbadeff",
+                "queryName": "stg_edfi_student_section_associations",
+                "queryGroupId": "e7ca55ad-66cc-4336-81f2-ea42a242ed31",
+                "loadEnabled": true
+            },
+            "stg_edfi_graduation_plans": {
+                "queryId": "bc1820e2-c658-4132-97d5-cf7cad34fad6",
+                "queryName": "stg_edfi_graduation_plans",
+                "queryGroupId": "e7ca55ad-66cc-4336-81f2-ea42a242ed31",
+                "loadEnabled": true
+            },
+            "SchoolYearTypes": {
+                "queryId": "fcf74e16-9946-4881-9bef-cd49533a6610",
+                "queryName": "SchoolYearTypes",
+                "queryGroupId": "9c911267-475c-4d2b-8f66-85d240c49fb3"
+            }
+        },
+        "document": "section Section1;\r\nshared WorkspaceName = \"Ed-Fi Exchange Dev\" meta [IsParameterQuery = true, IsParameterQueryRequired = false, Type = type any];\r\nshared DataflowName = \"Ed-Fi API Base - NEFEC Hosted\" meta [IsParameterQuery = true, IsParameterQueryRequired = false, Type = type any];\r\nshared SchoolYear = 2022 meta [IsParameterQuery = true, IsParameterQueryRequired = true, Type = type any];\r\nshared Grades = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"Grades\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared Students = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"Students\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared StudentSchoolAssociations = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"StudentSchoolAssociations\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared Programs = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"Programs\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared StudentSectionAssociations = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"StudentSectionAssociations\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared StudentProgramAssociations = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"StudentProgramAssociations\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared CourseTranscripts = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"CourseTranscripts\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared StudentEducationOrganizationAssociations = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"StudentEducationOrganizationAssociations\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared StudentIdentificationCodes = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"StudentIdentificationCodes\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then rRecord.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared StudentSchoolAttendanceEvents = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"StudentSchoolAttendanceEvents\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared StudentSectionAttendanceEvents = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"StudentSectionAttendanceEvents\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared StudentAcademicRecords = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"StudentAcademicRecords\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared Sessions = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"Sessions\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared GradingPeriods = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"GradingPeriods\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared Schools = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"Schools\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared Courses = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"Courses\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared CalendarDates = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"CalendarDates\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared GraduationPlans = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"GraduationPlans\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared LocalEducationAgencies = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"LocalEducationAgencies\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\nshared StudentSpecialEducationProgramAssociations = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"StudentSpecialEducationProgramAssociations\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\n[Description = \"This entity represents an individual for whom instruction, services, and/or care are provided in an early childhood, elementary, or secondary educational program under the jurisdiction of a school, education agency or other institution or program. A student is a person who has been enrolled in a school or other educational institution.\"]\r\nshared stg_edfi_students = let\n  Source = try Students catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then r else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\",\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\n  #\"Added custom\" = Table.TransformColumnTypes(Table.AddColumn(#\"Renamed columns\", \"school_year\", each SchoolYear), {{\"school_year\", Int64.Type}})\nin\n  #\"Added custom\";\r\nshared stg_edfi_student_education_organization_associations = let\n  Source = StudentEducationOrganizationAssociations,\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\n  #\"Added custom\" = Table.TransformColumnTypes(Table.AddColumn(#\"Renamed columns\", \"school_year.2\", each SchoolYear), {{\"school_year.2\", Int64.Type}})\nin\n  #\"Added custom\";\r\nshared stg_edfi_programs = let\n  Source = Programs,\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\n  #\"Renamed columns 1\" = Table.RenameColumns(#\"Renamed columns\", {{\"school__year\", \"school_year\"}}),\n  #\"Changed column type\" = Table.TransformColumnTypes(#\"Renamed columns 1\", {{\"education_organization_id\", type text}})\nin\n  #\"Changed column type\";\r\nshared stg_edfi_student_program_associations = let\r\n  Source = StudentProgramAssociations,\r\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\r\n  #\"Added custom\" = Table.TransformColumnTypes(Table.AddColumn(#\"Renamed columns\", \"school_year\", each SchoolYear), {{\"school_year\", Int64.Type}}),\r\n  #\"Changed column type\" = Table.TransformColumnTypes(#\"Added custom\", {{\"education_organization_id\", type text}})\r\nin\r\n  #\"Changed column type\";\r\nshared stg_edfi_student_school_associations = let\r\n  Source = StudentSchoolAssociations,\r\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\r\n  #\"Changed column type\" = Table.TransformColumnTypes(#\"Renamed columns\", {{\"education_organization_id\", type text}, {\"school_id\", type text}})\r\nin\r\n  #\"Changed column type\";\r\nshared stg_edfi_schools = let\r\n  Source = Schools,\r\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\r\n  #\"Added custom\" = Table.TransformColumnTypes(Table.AddColumn(#\"Renamed columns\", \"school_year\", each SchoolYear), {{\"school_year\", Int64.Type}}),\r\n  #\"Changed column type\" = Table.TransformColumnTypes(#\"Added custom\", {{\"local_education_agency_id\", type text}, {\"school_id\", type text}})\r\nin\r\n  #\"Changed column type\";\r\nshared stg_edfi_local_education_agencies = let\r\n  Source = LocalEducationAgencies,\r\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\r\n  #\"Added custom\" = Table.TransformColumnTypes(Table.AddColumn(#\"Renamed columns\", \"school_year\", each SchoolYear), {{\"school_year\", Int64.Type}}),\r\n  #\"Changed column type\" = Table.TransformColumnTypes(#\"Added custom\", {{\"local_education_agency_id\", type text}})\r\nin\r\n  #\"Changed column type\";\r\nshared stg_edfi_student_special_education_program_associations = let\r\n  Source = StudentSpecialEducationProgramAssociations,\r\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\r\n  #\"Changed column type\" = Table.TransformColumnTypes(#\"Renamed columns\", {{\"education_organization_id\", type text}}),\r\n  #\"Renamed columns 1\" = Table.RenameColumns(#\"Changed column type\", {{\"school__year\", \"school_year\"}})\r\nin\r\n  #\"Renamed columns 1\";\r\nshared stg_edfi_sessions = let\n  Source = Sessions,\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\r\n  #\"Changed column type\" = Table.TransformColumnTypes(#\"Renamed columns\", {{\"school_id\", type text}})\nin\n  #\"Changed column type\";\r\nshared stg_edfi_grades = let\r\n  Source = Grades,\r\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\r\n  #\"Changed column type\" = Table.TransformColumnTypes(#\"Renamed columns\", {{\"school_id\", type text}}),\r\n  #\"Added custom\" = Table.TransformColumnTypes(Table.AddColumn(#\"Renamed columns\", \"school_year.2\", each SchoolYear), {{\"school_year.2\", Int64.Type}})\r\nin\r\n  #\"Added custom\";\r\nshared stg_edfi_grading_periods = let\n  Source = GradingPeriods,\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\n  #\"Added custom\" = Table.TransformColumnTypes(Table.AddColumn(#\"Renamed columns\", \"school_year.2\", each SchoolYear), {{\"school_year.2\", Int64.Type}}),\n  #\"Changed column type\" = Table.TransformColumnTypes(#\"Added custom\", {{\"school_id\", type text}})\nin\n  #\"Changed column type\";\r\nshared stg_edfi_school_year_types = let\n  Source = SchoolYearTypes,\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\")))))\nin\n  #\"Renamed columns\";\r\nshared stg_edfi_calendar_dates = let\n  Source = CalendarDates,\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\r\n  #\"Renamed columns 1\" = Table.RenameColumns(#\"Renamed columns\", {{\"calendar_event_descriptor\", \"calendar_events\"}}),\n  #\"Added custom\" = Table.TransformColumnTypes(Table.AddColumn(#\"Renamed columns 1\", \"school_year.2\", each SchoolYear), {{\"school_year.2\", Int64.Type}}),\r\n  #\"Changed column type\" = Table.TransformColumnTypes(#\"Added custom\", {{\"school_id\", type text}})\nin\n  #\"Changed column type\";\r\nshared stg_edfi_student_section_attendance_events = let\n  Source = StudentSectionAttendanceEvents,\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\n  #\"Added custom\" = Table.TransformColumnTypes(Table.AddColumn(#\"Renamed columns\", \"school_year.2\", each SchoolYear), {{\"school_year.2\", Int64.Type}}),\r\n  #\"Changed column type\" = Table.TransformColumnTypes(#\"Added custom\", {{\"school_id\", type text}})\nin\n  #\"Changed column type\";\r\nshared stg_edfi_student_school_attendance_events = let\n  Source = StudentSchoolAttendanceEvents,\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\n  #\"Added custom\" = Table.TransformColumnTypes(Table.AddColumn(#\"Renamed columns\", \"school_year.2\", each SchoolYear), {{\"school_year.2\", Int64.Type}}),\r\n  #\"Changed column type\" = Table.TransformColumnTypes(#\"Added custom\", {{\"school_id\", type text}})\nin\n  #\"Changed column type\";\r\nshared stg_edfi_student_section_associations = let\n  Source = StudentSectionAssociations,\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\n  #\"Added custom\" = Table.TransformColumnTypes(Table.AddColumn(#\"Renamed columns\", \"school_year.2\", each SchoolYear), {{\"school_year.2\", Int64.Type}}),\r\n  #\"Changed column type\" = Table.TransformColumnTypes(#\"Added custom\", {{\"school_year\", Int64.Type}})\nin\n  #\"Changed column type\";\r\nshared stg_edfi_graduation_plans = let\r\n  Source = try GraduationPlans catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then r else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\",\r\n  #\"Renamed columns\" = Table.TransformColumnNames(Source, each Text.Lower(Text.Trim(Text.Proper(Text.Combine( List.Transform( Text.ToList ( _ ) , each if _ = Text.Upper(_) then \"_\" & _ else _ ) , \"\"))))),\r\n  #\"Transform columns\" = Table.TransformColumnTypes(#\"Renamed columns\", {{\"_value\", type text}}),\r\n  #\"Replace errors\" = Table.ReplaceErrorValues(#\"Transform columns\", {{\"_value\", null}})\r\nin\r\n  #\"Replace errors\";\r\nshared SchoolYearTypes = let\n    Source = PowerBI.Dataflows(),\n    Workspace = Source{[workspaceName=WorkspaceName]}[Data],\n    Dataflow = Workspace{[dataflowName=DataflowName]}[Data],\n    Entity = try Dataflow{[entity=\"SchoolYearTypes\"]}[Data] catch (r)=> if r[Message] = \"The key didn't match any rows in the table.\" then Record.ToTable(r) else if r[HasError] = false then r[Table] else \"There was an unaccounted for error. Please troubleshoot.\"\nin\n    Entity;\r\n",
+        "connectionOverrides": [
+            {
+                "path": "PowerBI",
+                "kind": "PowerBI",
+                "provider": "CdsA",
+                "authenticationKind": null,
+                "environmentName": null,
+                "apiName": null,
+                "connectionName": "{\"kind\":\"PowerBI\",\"path\":\"PowerBI\"}",
+                "audience": null
+            }
+        ]
+    },
+    "annotations": [
+        {
+            "name": "pbi:QueryGroups",
+            "value": "[{\"id\":\"16154c72-e425-4bfa-a735-07433d06dce8\",\"name\":\"staging\",\"description\":\"\",\"parentId\":null,\"order\":2},{\"id\":\"a541fe00-19df-44cf-a9d3-55d425a27ef9\",\"name\":\"Parameters\",\"description\":\"\",\"parentId\":null,\"order\":0},{\"id\":\"e7ca55ad-66cc-4336-81f2-ea42a242ed31\",\"name\":\"Ed-Fi\",\"description\":\"\",\"parentId\":\"16154c72-e425-4bfa-a735-07433d06dce8\",\"order\":0},{\"id\":\"9c911267-475c-4d2b-8f66-85d240c49fb3\",\"name\":\"Linked Dataflows\",\"description\":\"\",\"parentId\":null,\"order\":1}]"
+        }
+    ],
+    "entities": [
+        {
+            "$type": "LocalEntity",
+            "name": "stg_edfi_students",
+            "description": "",
+            "pbi:refreshPolicy": {
+                "$type": "FullRefreshPolicy",
+                "location": "stg_edfi_students.csv"
+            },
+            "attributes": [
+                {
+                    "name": "id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "student_unique_id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "birth_country_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "birth_date",
+                    "dataType": "date"
+                },
+                {
+                    "name": "first_name",
+                    "dataType": "string"
+                },
+                {
+                    "name": "last_surname",
+                    "dataType": "string"
+                },
+                {
+                    "name": "middle_name",
+                    "dataType": "string"
+                },
+                {
+                    "name": "identification_documents",
+                    "dataType": "string"
+                },
+                {
+                    "name": "personal_identification_documents",
+                    "dataType": "string"
+                },
+                {
+                    "name": "visa_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_year",
+                    "dataType": "int64"
+                }
+            ],
+            "partitions": [
+                {
+                    "name": "FullRefreshPolicyPartition",
+                    "refreshTime": "2023-02-10T14:55:57.0478451+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_students.csv?snapshot=2023-02-10T14%3A55%3A57.0186176Z"
+                }
+            ]
+        },
+        {
+            "$type": "LocalEntity",
+            "name": "stg_edfi_student_education_organization_associations",
+            "description": "",
+            "pbi:refreshPolicy": {
+                "$type": "FullRefreshPolicy",
+                "location": "stg_edfi_student_education_organization_associations.csv"
+            },
+            "attributes": [
+                {
+                    "name": "id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "education_organization_id",
+                    "dataType": "int64"
+                },
+                {
+                    "name": "student_unique_id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "hispanic_latino_ethnicity",
+                    "dataType": "boolean"
+                },
+                {
+                    "name": "limited_english_proficiency_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "sex_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "address_type_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "city",
+                    "dataType": "string"
+                },
+                {
+                    "name": "postal_code",
+                    "dataType": "string"
+                },
+                {
+                    "name": "state_abbreviation_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "street_number_name",
+                    "dataType": "string"
+                },
+                {
+                    "name": "periods",
+                    "dataType": "string"
+                },
+                {
+                    "name": "ancestry_ethnic_origins",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_year",
+                    "dataType": "int64"
+                },
+                {
+                    "name": "cohort_year_type_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "disabilities",
+                    "dataType": "string"
+                },
+                {
+                    "name": "electronic_mail_address",
+                    "dataType": "string"
+                },
+                {
+                    "name": "electronic_mail_type_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "primary_email_address_indicator",
+                    "dataType": "boolean"
+                },
+                {
+                    "name": "international_addresses",
+                    "dataType": "string"
+                },
+                {
+                    "name": "language_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "language_use_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "program_participations",
+                    "dataType": "string"
+                },
+                {
+                    "name": "race_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "student_characteristics",
+                    "dataType": "string"
+                },
+                {
+                    "name": "student_indicators",
+                    "dataType": "string"
+                },
+                {
+                    "name": "telephone_number",
+                    "dataType": "string"
+                },
+                {
+                    "name": "telephone_number_type_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "tribal_affiliations",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_year.2",
+                    "dataType": "int64"
+                }
+            ],
+            "partitions": [
+                {
+                    "name": "FullRefreshPolicyPartition",
+                    "refreshTime": "2023-02-10T14:55:57.5322052+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_student_education_organization_associations.csv?snapshot=2023-02-10T14%3A55%3A57.5223895Z"
+                }
+            ]
+        },
+        {
+            "$type": "LocalEntity",
+            "name": "stg_edfi_programs",
+            "description": "",
+            "pbi:refreshPolicy": {
+                "$type": "FullRefreshPolicy",
+                "location": "stg_edfi_programs.csv"
+            },
+            "attributes": [
+                {
+                    "name": "id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "education_organization_id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "program_name",
+                    "dataType": "string"
+                },
+                {
+                    "name": "program_type_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "program_id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "characteristics",
+                    "dataType": "string"
+                },
+                {
+                    "name": "learning_objectives",
+                    "dataType": "string"
+                },
+                {
+                    "name": "learning_standards",
+                    "dataType": "string"
+                },
+                {
+                    "name": "services",
+                    "dataType": "string"
+                },
+                {
+                    "name": "sponsors",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_year",
+                    "dataType": "int64"
+                }
+            ],
+            "partitions": [
+                {
+                    "name": "FullRefreshPolicyPartition",
+                    "refreshTime": "2023-02-10T14:55:57.0009729+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_programs.csv?snapshot=2023-02-10T14%3A55%3A56.9756368Z"
+                }
+            ]
+        },
+        {
+            "$type": "LocalEntity",
+            "name": "stg_edfi_student_program_associations",
+            "description": "",
+            "pbi:refreshPolicy": {
+                "$type": "FullRefreshPolicy",
+                "location": "stg_edfi_student_program_associations.csv"
+            },
+            "attributes": [
+                {
+                    "name": "id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "education_organization_id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "program_name",
+                    "dataType": "string"
+                },
+                {
+                    "name": "program_type_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "student_unique_id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "begin_date",
+                    "dataType": "date"
+                },
+                {
+                    "name": "program_participation_statuses",
+                    "dataType": "string"
+                },
+                {
+                    "name": "services",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_year",
+                    "dataType": "int64"
+                }
+            ],
+            "partitions": [
+                {
+                    "name": "FullRefreshPolicyPartition",
+                    "refreshTime": "2023-02-10T14:55:59.5165974+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_student_program_associations.csv?snapshot=2023-02-10T14%3A55%3A59.5004941Z"
+                }
+            ]
+        },
+        {
+            "$type": "LocalEntity",
+            "name": "stg_edfi_student_school_associations",
+            "description": "",
+            "pbi:refreshPolicy": {
+                "$type": "FullRefreshPolicy",
+                "location": "stg_edfi_student_school_associations.csv"
+            },
+            "attributes": [
+                {
+                    "name": "id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "education_organization_id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "graduation_plan_type_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "graduation_school_year",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_year",
+                    "dataType": "int64"
+                },
+                {
+                    "name": "student_unique_id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "entry_date",
+                    "dataType": "date"
+                },
+                {
+                    "name": "entry_grade_level_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "entry_type_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "exit_withdrawl_date",
+                    "dataType": "date"
+                },
+                {
+                    "name": "exit_withdraw_type_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "primary_school",
+                    "dataType": "boolean"
+                },
+                {
+                    "name": "repeat_grade_indicator",
+                    "dataType": "boolean"
+                },
+                {
+                    "name": "residency_status_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_choice_transfer",
+                    "dataType": "string"
+                },
+                {
+                    "name": "alternative_graduation_plans",
+                    "dataType": "string"
+                },
+                {
+                    "name": "education_plans",
+                    "dataType": "string"
+                }
+            ],
+            "partitions": [
+                {
+                    "name": "FullRefreshPolicyPartition",
+                    "refreshTime": "2023-02-10T14:55:57.2353404+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_student_school_associations.csv?snapshot=2023-02-10T14%3A55%3A57.2135295Z"
+                }
+            ]
+        },
+        {
+            "$type": "LocalEntity",
+            "name": "stg_edfi_schools",
+            "description": "",
+            "pbi:refreshPolicy": {
+                "$type": "FullRefreshPolicy",
+                "location": "stg_edfi_schools.csv"
+            },
+            "attributes": [
+                {
+                    "name": "id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "local_education_agency_id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "name_of_institution",
+                    "dataType": "string"
+                },
+                {
+                    "name": "web_site",
+                    "dataType": "string"
+                },
+                {
+                    "name": "charter_status_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_type_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "address_type_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "city",
+                    "dataType": "string"
+                },
+                {
+                    "name": "postal_code",
+                    "dataType": "string"
+                },
+                {
+                    "name": "state_abbreviation_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "street_number_name",
+                    "dataType": "string"
+                },
+                {
+                    "name": "periods",
+                    "dataType": "string"
+                },
+                {
+                    "name": "education_organization_category_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "identification_codes",
+                    "dataType": "string"
+                },
+                {
+                    "name": "indicators",
+                    "dataType": "string"
+                },
+                {
+                    "name": "institution_telephone_number_type_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "telephone_number",
+                    "dataType": "string"
+                },
+                {
+                    "name": "international_addresses",
+                    "dataType": "string"
+                },
+                {
+                    "name": "tpdm",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_category_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "grade_level_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "short_name_of_institution",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_year",
+                    "dataType": "int64"
+                }
+            ],
+            "partitions": [
+                {
+                    "name": "FullRefreshPolicyPartition",
+                    "refreshTime": "2023-02-10T14:55:56.8290914+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_schools.csv?snapshot=2023-02-10T14%3A55%3A56.7727286Z"
+                }
+            ]
+        },
+        {
+            "$type": "LocalEntity",
+            "name": "stg_edfi_local_education_agencies",
+            "description": "",
+            "pbi:refreshPolicy": {
+                "$type": "FullRefreshPolicy",
+                "location": "stg_edfi_local_education_agencies.csv"
+            },
+            "attributes": [
+                {
+                    "name": "id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "local_education_agency_id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "name_of_institution",
+                    "dataType": "string"
+                },
+                {
+                    "name": "local_education_agency_category_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "addresses",
+                    "dataType": "string"
+                },
+                {
+                    "name": "education_organization_category_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "identification_codes",
+                    "dataType": "string"
+                },
+                {
+                    "name": "indicators",
+                    "dataType": "string"
+                },
+                {
+                    "name": "institution_telephones",
+                    "dataType": "string"
+                },
+                {
+                    "name": "international_addresses",
+                    "dataType": "string"
+                },
+                {
+                    "name": "tpdm",
+                    "dataType": "string"
+                },
+                {
+                    "name": "accountabilities",
+                    "dataType": "string"
+                },
+                {
+                    "name": "federal_funds",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_year",
+                    "dataType": "int64"
+                }
+            ],
+            "partitions": [
+                {
+                    "name": "FullRefreshPolicyPartition",
+                    "refreshTime": "2023-02-10T14:55:56.8134887+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_local_education_agencies.csv?snapshot=2023-02-10T14%3A55%3A56.7977189Z"
+                }
+            ]
+        },
+        {
+            "$type": "LocalEntity",
+            "name": "stg_edfi_student_special_education_program_associations",
+            "description": "",
+            "pbi:refreshPolicy": {
+                "$type": "FullRefreshPolicy",
+                "location": "stg_edfi_student_special_education_program_associations.csv"
+            },
+            "attributes": [
+                {
+                    "name": "id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "education_organization_id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "program_name",
+                    "dataType": "string"
+                },
+                {
+                    "name": "program_type_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "student_unique_id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "begin_date",
+                    "dataType": "date"
+                },
+                {
+                    "name": "idea_eligibility",
+                    "dataType": "boolean"
+                },
+                {
+                    "name": "special_education_setting_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "program_participation_statuses",
+                    "dataType": "string"
+                },
+                {
+                    "name": "disabilities",
+                    "dataType": "string"
+                },
+                {
+                    "name": "service_providers",
+                    "dataType": "string"
+                },
+                {
+                    "name": "special_education_program_services",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_year",
+                    "dataType": "int64"
+                }
+            ],
+            "partitions": [
+                {
+                    "name": "FullRefreshPolicyPartition",
+                    "refreshTime": "2023-02-10T14:55:57.6885002+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_student_special_education_program_associations.csv?snapshot=2023-02-10T14%3A55%3A57.6723216Z"
+                }
+            ]
+        },
+        {
+            "$type": "LocalEntity",
+            "name": "stg_edfi_sessions",
+            "description": "",
+            "pbi:refreshPolicy": {
+                "$type": "FullRefreshPolicy",
+                "location": "stg_edfi_sessions.csv"
+            },
+            "attributes": [
+                {
+                    "name": "id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_year",
+                    "dataType": "int64"
+                },
+                {
+                    "name": "session_name",
+                    "dataType": "string"
+                },
+                {
+                    "name": "begin_date",
+                    "dataType": "date"
+                },
+                {
+                    "name": "end_date",
+                    "dataType": "date"
+                },
+                {
+                    "name": "term_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "total_instructional_days",
+                    "dataType": "int64"
+                },
+                {
+                    "name": "academic_weeks",
+                    "dataType": "string"
+                },
+                {
+                    "name": "grading_period_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "period_sequence",
+                    "dataType": "int64"
+                }
+            ],
+            "partitions": [
+                {
+                    "name": "FullRefreshPolicyPartition",
+                    "refreshTime": "2023-02-10T14:55:57.4228524+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_sessions.csv?snapshot=2023-02-10T14%3A55%3A57.4034424Z"
+                }
+            ]
+        },
+        {
+            "$type": "LocalEntity",
+            "name": "stg_edfi_grades",
+            "description": "",
+            "pbi:refreshPolicy": {
+                "$type": "FullRefreshPolicy",
+                "location": "stg_edfi_grades.csv"
+            },
+            "attributes": [
+                {
+                    "name": "id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "grading_period_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "period_sequence",
+                    "dataType": "int64"
+                },
+                {
+                    "name": "school_id",
+                    "dataType": "int64"
+                },
+                {
+                    "name": "school_year",
+                    "dataType": "int64"
+                },
+                {
+                    "name": "begin_date",
+                    "dataType": "dateTime"
+                },
+                {
+                    "name": "local_course_code",
+                    "dataType": "string"
+                },
+                {
+                    "name": "section_identifier",
+                    "dataType": "string"
+                },
+                {
+                    "name": "session_name",
+                    "dataType": "string"
+                },
+                {
+                    "name": "student_unique_id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "grade_type_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "letter_grade_earned",
+                    "dataType": "string"
+                },
+                {
+                    "name": "numeric_grade_earned",
+                    "dataType": "int64"
+                },
+                {
+                    "name": "school_year.2",
+                    "dataType": "int64"
+                }
+            ],
+            "partitions": [
+                {
+                    "name": "FullRefreshPolicyPartition",
+                    "refreshTime": "2023-02-10T14:56:00.3291156+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_grades.csv?snapshot=2023-02-10T14%3A56%3A00.3081283Z"
+                }
+            ]
+        },
+        {
+            "$type": "LocalEntity",
+            "name": "stg_edfi_grading_periods",
+            "description": "",
+            "pbi:refreshPolicy": {
+                "$type": "FullRefreshPolicy",
+                "location": "stg_edfi_grading_periods.csv"
+            },
+            "attributes": [
+                {
+                    "name": "id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_year",
+                    "dataType": "int64"
+                },
+                {
+                    "name": "grading_period_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "period_sequence",
+                    "dataType": "int64"
+                },
+                {
+                    "name": "begin_date",
+                    "dataType": "date"
+                },
+                {
+                    "name": "end_date",
+                    "dataType": "date"
+                },
+                {
+                    "name": "total_instructional_days",
+                    "dataType": "int64"
+                },
+                {
+                    "name": "school_year.2",
+                    "dataType": "int64"
+                }
+            ],
+            "partitions": [
+                {
+                    "name": "FullRefreshPolicyPartition",
+                    "refreshTime": "2023-02-10T14:55:56.516664+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_grading_periods.csv?snapshot=2023-02-10T14%3A55%3A56.4698654Z"
+                }
+            ]
+        },
+        {
+            "$type": "LocalEntity",
+            "name": "stg_edfi_school_year_types",
+            "description": "",
+            "pbi:refreshPolicy": {
+                "$type": "FullRefreshPolicy",
+                "location": "stg_edfi_school_year_types.csv"
+            },
+            "attributes": [
+                {
+                    "name": "id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_year",
+                    "dataType": "int64"
+                },
+                {
+                    "name": "current_school_year",
+                    "dataType": "boolean"
+                },
+                {
+                    "name": "school_year_description",
+                    "dataType": "string"
+                }
+            ],
+            "partitions": [
+                {
+                    "name": "FullRefreshPolicyPartition",
+                    "refreshTime": "2023-02-10T14:55:56.6103506+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_school_year_types.csv?snapshot=2023-02-10T14%3A55%3A56.5808159Z"
+                }
+            ]
+        },
+        {
+            "$type": "LocalEntity",
+            "name": "stg_edfi_calendar_dates",
+            "description": "",
+            "pbi:refreshPolicy": {
+                "$type": "FullRefreshPolicy",
+                "location": "stg_edfi_calendar_dates.csv"
+            },
+            "attributes": [
+                {
+                    "name": "id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "calendar_code",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_year",
+                    "dataType": "int64"
+                },
+                {
+                    "name": "rel",
+                    "dataType": "string"
+                },
+                {
+                    "name": "date",
+                    "dataType": "date"
+                },
+                {
+                    "name": "calendar_events",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_year.2",
+                    "dataType": "int64"
+                }
+            ],
+            "partitions": [
+                {
+                    "name": "FullRefreshPolicyPartition",
+                    "refreshTime": "2023-02-10T14:55:56.9384686+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_calendar_dates.csv?snapshot=2023-02-10T14%3A55%3A56.9266595Z"
+                }
+            ]
+        },
+        {
+            "$type": "LocalEntity",
+            "name": "stg_edfi_student_section_attendance_events",
+            "description": "",
+            "pbi:refreshPolicy": {
+                "$type": "FullRefreshPolicy",
+                "location": "stg_edfi_student_section_attendance_events.csv"
+            },
+            "attributes": [
+                {
+                    "name": "id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "local_course_code",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_year",
+                    "dataType": "int64"
+                },
+                {
+                    "name": "section_identifier",
+                    "dataType": "string"
+                },
+                {
+                    "name": "session_name",
+                    "dataType": "string"
+                },
+                {
+                    "name": "student_unique_id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "attendance_event_category_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "event_date",
+                    "dataType": "date"
+                },
+                {
+                    "name": "school_year.2",
+                    "dataType": "int64"
+                }
+            ],
+            "partitions": [
+                {
+                    "name": "FullRefreshPolicyPartition",
+                    "refreshTime": "2023-02-10T14:56:04.1572098+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_student_section_attendance_events.csv?snapshot=2023-02-10T14%3A56%3A04.1393942Z"
+                }
+            ]
+        },
+        {
+            "$type": "LocalEntity",
+            "name": "stg_edfi_student_school_attendance_events",
+            "description": "",
+            "pbi:refreshPolicy": {
+                "$type": "FullRefreshPolicy",
+                "location": "stg_edfi_student_school_attendance_events.csv"
+            },
+            "attributes": [
+                {
+                    "name": "id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_year",
+                    "dataType": "int64"
+                },
+                {
+                    "name": "session_name",
+                    "dataType": "string"
+                },
+                {
+                    "name": "student_unique_id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "attendance_event_category_descriptor",
+                    "dataType": "string"
+                },
+                {
+                    "name": "event_date",
+                    "dataType": "date"
+                },
+                {
+                    "name": "attendance_event_reason",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_year.2",
+                    "dataType": "int64"
+                }
+            ],
+            "partitions": [
+                {
+                    "name": "FullRefreshPolicyPartition",
+                    "refreshTime": "2023-02-10T14:55:58.6572387+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_student_school_attendance_events.csv?snapshot=2023-02-10T14%3A55%3A58.6378851Z"
+                }
+            ]
+        },
+        {
+            "$type": "LocalEntity",
+            "name": "stg_edfi_student_section_associations",
+            "description": "",
+            "pbi:refreshPolicy": {
+                "$type": "FullRefreshPolicy",
+                "location": "stg_edfi_student_section_associations.csv"
+            },
+            "attributes": [
+                {
+                    "name": "id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "local_course_code",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_year",
+                    "dataType": "int64"
+                },
+                {
+                    "name": "section_identifier",
+                    "dataType": "string"
+                },
+                {
+                    "name": "session_name",
+                    "dataType": "string"
+                },
+                {
+                    "name": "student_unique_id",
+                    "dataType": "string"
+                },
+                {
+                    "name": "begin_date",
+                    "dataType": "string"
+                },
+                {
+                    "name": "end_date",
+                    "dataType": "string"
+                },
+                {
+                    "name": "school_year.2",
+                    "dataType": "int64"
+                }
+            ],
+            "partitions": [
+                {
+                    "name": "FullRefreshPolicyPartition",
+                    "refreshTime": "2023-02-10T14:55:58.8447091+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_student_section_associations.csv?snapshot=2023-02-10T14%3A55%3A58.8277985Z"
+                }
+            ]
+        },
+        {
+            "$type": "LocalEntity",
+            "name": "stg_edfi_graduation_plans",
+            "description": "",
+            "pbi:refreshPolicy": {
+                "$type": "FullRefreshPolicy",
+                "location": "stg_edfi_graduation_plans.csv"
+            },
+            "attributes": [
+                {
+                    "name": "_name",
+                    "dataType": "string"
+                },
+                {
+                    "name": "_value",
+                    "dataType": "string"
+                }
+            ],
+            "partitions": [
+                {
+                    "name": "FullRefreshPolicyPartition",
+                    "refreshTime": "2023-02-10T14:55:56.704101+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_graduation_plans.csv?snapshot=2023-02-10T14%3A55%3A56.6607800Z"
+                }
+            ]
+        }
+    ]
+}
