@@ -195,36 +195,6 @@
                 "audience": null
             },
             {
-                "path": "https://api-eastus.edgraph.com/",
-                "kind": "Web",
-                "provider": "CdsA",
-                "authenticationKind": null,
-                "environmentName": null,
-                "apiName": null,
-                "connectionName": "{\"kind\":\"Web\",\"path\":\"https://api-eastus.edgraph.com/\"}",
-                "audience": null
-            },
-            {
-                "path": "https://edfiapi.nefec.org/",
-                "kind": "Web",
-                "provider": "CdsA",
-                "authenticationKind": null,
-                "environmentName": null,
-                "apiName": null,
-                "connectionName": "{\"kind\":\"Web\",\"path\":\"https://edfiapi.nefec.org/\"}",
-                "audience": null
-            },
-            {
-                "path": "http://v5.2.0/DS/api/data/v3/",
-                "kind": "Web",
-                "provider": "CdsA",
-                "authenticationKind": null,
-                "environmentName": null,
-                "apiName": null,
-                "connectionName": "{\"kind\":\"Web\",\"path\":\"http://v5.2.0/DS/api/data/v3\"}",
-                "audience": null
-            },
-            {
                 "path": "https://api.ed-fi.org/",
                 "kind": "Web",
                 "provider": "CdsA",
