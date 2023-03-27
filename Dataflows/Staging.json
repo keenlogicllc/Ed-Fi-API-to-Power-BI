@@ -3,7 +3,7 @@
     "description": "",
     "version": "1.0",
     "culture": "en-US",
-    "modifiedTime": "2023-02-27T16:14:09.0592497+00:00",
+    "modifiedTime": "2023-03-27T16:03:51.5980744+00:00",
     "ppdf:outputFileFormat": "Csv",
     "pbi:mashup": {
         "fastCombine": false,
@@ -298,8 +298,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:48:10.1146647+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_calendar_dates.csv?snapshot=2023-02-27T15%3A48%3A10.0898949Z"
+                    "refreshTime": "2023-03-27T16:57:26.1661887+00:00",
+                    "location": "https://wabiuseapcdsap1.blob.core.windows.net:443/bff306bb-85c0-4907-b80c-5624a7afd351/stg_edfi_calendar_dates.csv?snapshot=2023-03-27T16%3A57%3A26.1355496Z"
                 }
             ]
         },
@@ -372,8 +372,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:48:11.6148426+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_grades.csv?snapshot=2023-02-27T15%3A48%3A11.6004096Z"
+                    "refreshTime": "2023-03-27T16:57:27.884924+00:00",
+                    "location": "https://wabiuseapcdsap1.blob.core.windows.net:443/bff306bb-85c0-4907-b80c-5624a7afd351/stg_edfi_grades.csv?snapshot=2023-03-27T16%3A57%3A27.8457839Z"
                 }
             ]
         },
@@ -426,8 +426,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:48:09.833403+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_grading_periods.csv?snapshot=2023-02-27T15%3A48%3A09.8089847Z"
+                    "refreshTime": "2023-03-27T16:57:26.5880529+00:00",
+                    "location": "https://wabiuseapcdsap1.blob.core.windows.net:443/bff306bb-85c0-4907-b80c-5624a7afd351/stg_edfi_grading_periods.csv?snapshot=2023-03-27T16%3A57%3A26.5553612Z"
                 }
             ]
         },
@@ -480,8 +480,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:48:09.2239859+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_graduation_plans.csv?snapshot=2023-02-27T15%3A48%3A09.1501962Z"
+                    "refreshTime": "2023-03-27T16:57:26.0099133+00:00",
+                    "location": "https://wabiuseapcdsap1.blob.core.windows.net:443/bff306bb-85c0-4907-b80c-5624a7afd351/stg_edfi_graduation_plans.csv?snapshot=2023-03-27T16%3A57%3A26.0036098Z"
                 }
             ]
         },
@@ -554,8 +554,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:48:14.1618216+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_local_education_agencies.csv?snapshot=2023-02-27T15%3A48%3A14.1126033Z"
+                    "refreshTime": "2023-03-27T16:57:26.1036772+00:00",
+                    "location": "https://wabiuseapcdsap1.blob.core.windows.net:443/bff306bb-85c0-4907-b80c-5624a7afd351/stg_edfi_local_education_agencies.csv?snapshot=2023-03-27T16%3A57%3A26.0635823Z"
                 }
             ]
         },
@@ -616,8 +616,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:48:09.3177435+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_programs.csv?snapshot=2023-02-27T15%3A48%3A09.2751637Z"
+                    "refreshTime": "2023-03-27T16:57:26.5724328+00:00",
+                    "location": "https://wabiuseapcdsap1.blob.core.windows.net:443/bff306bb-85c0-4907-b80c-5624a7afd351/stg_edfi_programs.csv?snapshot=2023-03-27T16%3A57%3A26.5583609Z"
                 }
             ]
         },
@@ -730,8 +730,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:48:09.9896595+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_schools.csv?snapshot=2023-02-27T15%3A48%3A09.9739320Z"
+                    "refreshTime": "2023-03-27T16:57:26.0724203+00:00",
+                    "location": "https://wabiuseapcdsap1.blob.core.windows.net:443/bff306bb-85c0-4907-b80c-5624a7afd351/stg_edfi_schools.csv?snapshot=2023-03-27T16%3A57%3A26.0405936Z"
                 }
             ]
         },
@@ -764,8 +764,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:48:14.0211765+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_school_year_types.csv?snapshot=2023-02-27T15%3A48%3A13.9996398Z"
+                    "refreshTime": "2023-03-27T16:57:26.3693066+00:00",
+                    "location": "https://wabiuseapcdsap1.blob.core.windows.net:443/bff306bb-85c0-4907-b80c-5624a7afd351/stg_edfi_school_year_types.csv?snapshot=2023-03-27T16%3A57%3A26.3424575Z"
                 }
             ]
         },
@@ -826,8 +826,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:48:14.1774474+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_sessions.csv?snapshot=2023-02-27T15%3A48%3A14.1465928Z"
+                    "refreshTime": "2023-03-27T16:57:26.0567966+00:00",
+                    "location": "https://wabiuseapcdsap1.blob.core.windows.net:443/bff306bb-85c0-4907-b80c-5624a7afd351/stg_edfi_sessions.csv?snapshot=2023-03-27T16%3A57%3A26.0435913Z"
                 }
             ]
         },
@@ -888,8 +888,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:48:14.1305689+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_students.csv?snapshot=2023-02-27T15%3A48%3A14.1156028Z"
+                    "refreshTime": "2023-03-27T16:57:26.1505599+00:00",
+                    "location": "https://wabiuseapcdsap1.blob.core.windows.net:443/bff306bb-85c0-4907-b80c-5624a7afd351/stg_edfi_students.csv?snapshot=2023-03-27T16%3A57%3A26.0995661Z"
                 }
             ]
         },
@@ -1026,8 +1026,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:48:14.0992947+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_student_education_organization_associations.csv?snapshot=2023-02-27T15%3A48%3A14.0906102Z"
+                    "refreshTime": "2023-03-27T16:57:26.9005776+00:00",
+                    "location": "https://wabiuseapcdsap1.blob.core.windows.net:443/bff306bb-85c0-4907-b80c-5624a7afd351/stg_edfi_student_education_organization_associations.csv?snapshot=2023-03-27T16%3A57%3A26.8922112Z"
                 }
             ]
         },
@@ -1080,8 +1080,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:48:09.8959037+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_student_program_associations.csv?snapshot=2023-02-27T15%3A48%3A09.8659666Z"
+                    "refreshTime": "2023-03-27T16:57:26.4318001+00:00",
+                    "location": "https://wabiuseapcdsap1.blob.core.windows.net:443/bff306bb-85c0-4907-b80c-5624a7afd351/stg_edfi_student_program_associations.csv?snapshot=2023-03-27T16%3A57%3A26.4244206Z"
                 }
             ]
         },
@@ -1166,6 +1166,13 @@
                     "name": "education_plans",
                     "dataType": "string"
                 }
+            ],
+            "partitions": [
+                {
+                    "name": "FullRefreshPolicyPartition",
+                    "refreshTime": "2023-03-27T16:57:26.7130768+00:00",
+                    "location": "https://wabiuseapcdsap1.blob.core.windows.net:443/bff306bb-85c0-4907-b80c-5624a7afd351/stg_edfi_student_school_associations.csv?snapshot=2023-03-27T16%3A57%3A26.7052957Z"
+                }
             ]
         },
         {
@@ -1217,8 +1224,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:48:09.9271534+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_student_school_attendance_events.csv?snapshot=2023-02-27T15%3A48%3A09.9129513Z"
+                    "refreshTime": "2023-03-27T16:57:26.6192994+00:00",
+                    "location": "https://wabiuseapcdsap1.blob.core.windows.net:443/bff306bb-85c0-4907-b80c-5624a7afd351/stg_edfi_student_school_attendance_events.csv?snapshot=2023-03-27T16%3A57%3A26.6033406Z"
                 }
             ]
         },
@@ -1275,8 +1282,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:48:14.5056728+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_student_section_associations.csv?snapshot=2023-02-27T15%3A48%3A14.4924808Z"
+                    "refreshTime": "2023-03-27T16:57:27.0880402+00:00",
+                    "location": "https://wabiuseapcdsap1.blob.core.windows.net:443/bff306bb-85c0-4907-b80c-5624a7afd351/stg_edfi_student_section_associations.csv?snapshot=2023-03-27T16%3A57%3A27.0011626Z"
                 }
             ]
         },
@@ -1333,8 +1340,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:48:09.489613+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_student_section_attendance_events.csv?snapshot=2023-02-27T15%3A48%3A09.4680945Z"
+                    "refreshTime": "2023-03-27T16:57:27.1192983+00:00",
+                    "location": "https://wabiuseapcdsap1.blob.core.windows.net:443/bff306bb-85c0-4907-b80c-5624a7afd351/stg_edfi_student_section_attendance_events.csv?snapshot=2023-03-27T16%3A57%3A27.1141119Z"
                 }
             ]
         },
@@ -1403,10 +1410,10 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:48:14.2399593+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/08ab4c4d-043a-4e65-a28d-78287aa219e2/stg_edfi_student_special_education_program_associations.csv?snapshot=2023-02-27T15%3A48%3A14.2325648Z"
+                    "refreshTime": "2023-03-27T16:57:26.5255517+00:00",
+                    "location": "https://wabiuseapcdsap1.blob.core.windows.net:443/bff306bb-85c0-4907-b80c-5624a7afd351/stg_edfi_student_special_education_program_associations.csv?snapshot=2023-03-27T16%3A57%3A26.5223765Z"
                 }
             ]
         }
     ]
-}p
+}

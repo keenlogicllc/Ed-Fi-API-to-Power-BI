@@ -3,7 +3,7 @@
     "description": "Using this one to try and account for all Ed-Fi API modes",
     "version": "1.0",
     "culture": "en-US",
-    "modifiedTime": "2023-02-27T15:38:17.8115401+00:00",
+    "modifiedTime": "2023-03-27T16:03:52.8168853+00:00",
     "ppdf:outputFileFormat": "Csv",
     "pbi:mashup": {
         "fastCombine": true,
@@ -294,8 +294,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:38:27.5309227+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/756621c9-3c02-45e2-a2d8-f7307d9efda5/CalendarDates.csv?snapshot=2023-02-27T15%3A38%3A27.4418583Z"
+                    "refreshTime": "2023-03-27T16:51:58.0624332+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/2db67bde-67e8-490e-b1e9-c1a99ef194e7/CalendarDates.csv?snapshot=2023-03-27T16%3A51%3A58.0451090Z"
                 }
             ]
         },
@@ -372,8 +372,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:38:29.2497892+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/756621c9-3c02-45e2-a2d8-f7307d9efda5/Courses.csv?snapshot=2023-02-27T15%3A38%3A29.2370559Z"
+                    "refreshTime": "2023-03-27T16:52:00.1563622+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/2db67bde-67e8-490e-b1e9-c1a99ef194e7/Courses.csv?snapshot=2023-03-27T16%3A52%3A00.1381527Z"
                 }
             ]
         },
@@ -454,8 +454,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:38:52.1262034+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/756621c9-3c02-45e2-a2d8-f7307d9efda5/CourseTranscripts.csv?snapshot=2023-02-27T15%3A38%3A52.1218248Z"
+                    "refreshTime": "2023-03-27T16:52:25.0353967+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/2db67bde-67e8-490e-b1e9-c1a99ef194e7/CourseTranscripts.csv?snapshot=2023-03-27T16%3A52%3A25.0197838Z"
                 }
             ]
         },
@@ -524,8 +524,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:39:23.5188614+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/756621c9-3c02-45e2-a2d8-f7307d9efda5/Grades.csv?snapshot=2023-02-27T15%3A39%3A23.5136007Z"
+                    "refreshTime": "2023-03-27T16:53:09.3503389+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/2db67bde-67e8-490e-b1e9-c1a99ef194e7/Grades.csv?snapshot=2023-03-27T16%3A53%3A09.3335338Z"
                 }
             ]
         },
@@ -574,8 +574,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:38:29.187273+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/756621c9-3c02-45e2-a2d8-f7307d9efda5/GradingPeriods.csv?snapshot=2023-02-27T15%3A38%3A29.1770829Z"
+                    "refreshTime": "2023-03-27T16:51:58.484353+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/2db67bde-67e8-490e-b1e9-c1a99ef194e7/GradingPeriods.csv?snapshot=2023-03-27T16%3A51%3A58.4559208Z"
                 }
             ]
         },
@@ -628,8 +628,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:38:29.7654366+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/756621c9-3c02-45e2-a2d8-f7307d9efda5/GraduationPlans.csv?snapshot=2023-02-27T15%3A38%3A29.7608217Z"
+                    "refreshTime": "2023-03-27T16:51:58.718782+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/2db67bde-67e8-490e-b1e9-c1a99ef194e7/GraduationPlans.csv?snapshot=2023-03-27T16%3A51%3A58.6938126Z"
                 }
             ]
         },
@@ -698,8 +698,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:38:27.6402954+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/756621c9-3c02-45e2-a2d8-f7307d9efda5/LocalEducationAgencies.csv?snapshot=2023-02-27T15%3A38%3A27.5198236Z"
+                    "refreshTime": "2023-03-27T16:51:51.8124027+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/2db67bde-67e8-490e-b1e9-c1a99ef194e7/LocalEducationAgencies.csv?snapshot=2023-03-27T16%3A51%3A51.7969643Z"
                 }
             ]
         },
@@ -760,8 +760,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:38:28.0622035+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/756621c9-3c02-45e2-a2d8-f7307d9efda5/Programs.csv?snapshot=2023-02-27T15%3A38%3A28.0475889Z"
+                    "refreshTime": "2023-03-27T16:51:58.0936828+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/2db67bde-67e8-490e-b1e9-c1a99ef194e7/Programs.csv?snapshot=2023-03-27T16%3A51%3A58.0770946Z"
                 }
             ]
         },
@@ -870,8 +870,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:38:27.7027967+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/756621c9-3c02-45e2-a2d8-f7307d9efda5/Schools.csv?snapshot=2023-02-27T15%3A38%3A27.5498116Z"
+                    "refreshTime": "2023-03-27T16:51:54.6561642+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/2db67bde-67e8-490e-b1e9-c1a99ef194e7/Schools.csv?snapshot=2023-03-27T16%3A51%3A54.6526592Z"
                 }
             ]
         },
@@ -904,8 +904,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:38:29.1091432+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/756621c9-3c02-45e2-a2d8-f7307d9efda5/SchoolYearTypes.csv?snapshot=2023-02-27T15%3A38%3A29.0951195Z"
+                    "refreshTime": "2023-03-27T16:51:51.8436604+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/2db67bde-67e8-490e-b1e9-c1a99ef194e7/SchoolYearTypes.csv?snapshot=2023-03-27T16%3A51%3A51.8099582Z"
                 }
             ]
         },
@@ -1006,8 +1006,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:38:31.2655305+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/756621c9-3c02-45e2-a2d8-f7307d9efda5/Sections.csv?snapshot=2023-02-27T15%3A38%3A31.2651497Z"
+                    "refreshTime": "2023-03-27T16:51:59.937444+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/2db67bde-67e8-490e-b1e9-c1a99ef194e7/Sections.csv?snapshot=2023-03-27T16%3A51%3A59.9342458Z"
                 }
             ]
         },
@@ -1068,8 +1068,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:38:29.4060364+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/756621c9-3c02-45e2-a2d8-f7307d9efda5/Sessions.csv?snapshot=2023-02-27T15%3A38%3A29.3889879Z"
+                    "refreshTime": "2023-03-27T16:51:51.8748897+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/2db67bde-67e8-490e-b1e9-c1a99ef194e7/Sessions.csv?snapshot=2023-03-27T16%3A51%3A51.8459418Z"
                 }
             ]
         },
@@ -1126,8 +1126,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:38:30.343621+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/756621c9-3c02-45e2-a2d8-f7307d9efda5/Students.csv?snapshot=2023-02-27T15%3A38%3A30.3345648Z"
+                    "refreshTime": "2023-03-27T16:51:54.0467855+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/2db67bde-67e8-490e-b1e9-c1a99ef194e7/Students.csv?snapshot=2023-03-27T16%3A51%3A54.0319441Z"
                 }
             ]
         },
@@ -1204,8 +1204,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:38:31.9686859+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/756621c9-3c02-45e2-a2d8-f7307d9efda5/StudentAcademicRecords.csv?snapshot=2023-02-27T15%3A38%3A31.9648364Z"
+                    "refreshTime": "2023-03-27T16:52:02.7656515+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/2db67bde-67e8-490e-b1e9-c1a99ef194e7/StudentAcademicRecords.csv?snapshot=2023-03-27T16%3A52%3A02.7609549Z"
                 }
             ]
         },
@@ -1338,8 +1338,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:38:32.2500511+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/756621c9-3c02-45e2-a2d8-f7307d9efda5/StudentEducationOrganizationAssociations.csv?snapshot=2023-02-27T15%3A38%3A32.2387141Z"
+                    "refreshTime": "2023-03-27T16:51:58.0780569+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/2db67bde-67e8-490e-b1e9-c1a99ef194e7/StudentEducationOrganizationAssociations.csv?snapshot=2023-03-27T16%3A51%3A58.0541050Z"
                 }
             ]
         },
@@ -1380,8 +1380,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:38:30.4686831+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/756621c9-3c02-45e2-a2d8-f7307d9efda5/StudentIdentificationCodes.csv?snapshot=2023-02-27T15%3A38%3A30.4595090Z"
+                    "refreshTime": "2023-03-27T16:51:57.9061907+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/2db67bde-67e8-490e-b1e9-c1a99ef194e7/StudentIdentificationCodes.csv?snapshot=2023-03-27T16%3A51%3A57.8951781Z"
                 }
             ]
         },
@@ -1430,8 +1430,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:38:30.0467207+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/756621c9-3c02-45e2-a2d8-f7307d9efda5/StudentProgramAssociations.csv?snapshot=2023-02-27T15%3A38%3A30.0326999Z"
+                    "refreshTime": "2023-03-27T16:51:52.2186486+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/2db67bde-67e8-490e-b1e9-c1a99ef194e7/StudentProgramAssociations.csv?snapshot=2023-03-27T16%3A51%3A52.2007801Z"
                 }
             ]
         },
@@ -1484,8 +1484,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:38:39.1410292+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/756621c9-3c02-45e2-a2d8-f7307d9efda5/StudentSectionAttendanceEvents.csv?snapshot=2023-02-27T15%3A38%3A39.1386289Z"
+                    "refreshTime": "2023-03-27T16:52:13.7144272+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/2db67bde-67e8-490e-b1e9-c1a99ef194e7/StudentSectionAttendanceEvents.csv?snapshot=2023-03-27T16%3A52%3A13.6999564Z"
                 }
             ]
         },
@@ -1574,8 +1574,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:38:29.0622653+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/756621c9-3c02-45e2-a2d8-f7307d9efda5/StudentSchoolAssociations.csv?snapshot=2023-02-27T15%3A38%3A29.0561371Z"
+                    "refreshTime": "2023-03-27T16:51:53.8281159+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/2db67bde-67e8-490e-b1e9-c1a99ef194e7/StudentSchoolAssociations.csv?snapshot=2023-03-27T16%3A51%3A53.8220388Z"
                 }
             ]
         },
@@ -1624,8 +1624,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:38:31.3124082+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/756621c9-3c02-45e2-a2d8-f7307d9efda5/StudentSchoolAttendanceEvents.csv?snapshot=2023-02-27T15%3A38%3A31.3061306Z"
+                    "refreshTime": "2023-03-27T16:52:01.8125641+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/2db67bde-67e8-490e-b1e9-c1a99ef194e7/StudentSchoolAttendanceEvents.csv?snapshot=2023-03-27T16%3A52%3A01.7943959Z"
                 }
             ]
         },
@@ -1678,8 +1678,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:38:36.6721048+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/756621c9-3c02-45e2-a2d8-f7307d9efda5/StudentSectionAssociations.csv?snapshot=2023-02-27T15%3A38%3A36.6687331Z"
+                    "refreshTime": "2023-03-27T16:52:05.2032758+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/2db67bde-67e8-490e-b1e9-c1a99ef194e7/StudentSectionAssociations.csv?snapshot=2023-03-27T16%3A52%3A05.1868457Z"
                 }
             ]
         },
@@ -1748,8 +1748,8 @@
             "partitions": [
                 {
                     "name": "FullRefreshPolicyPartition",
-                    "refreshTime": "2023-02-27T15:38:28.5622247+00:00",
-                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/756621c9-3c02-45e2-a2d8-f7307d9efda5/StudentSpecialEducationProgramAssociations.csv?snapshot=2023-02-27T15%3A38%3A28.5503625Z"
+                    "refreshTime": "2023-03-27T16:51:53.7811593+00:00",
+                    "location": "https://wabiuseapcdsa.blob.core.windows.net:443/2db67bde-67e8-490e-b1e9-c1a99ef194e7/StudentSpecialEducationProgramAssociations.csv?snapshot=2023-03-27T16%3A51%3A53.7670637Z"
                 }
             ]
         }
